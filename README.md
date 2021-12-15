@@ -1,5 +1,6 @@
-# Radiomics VHIO Home Page
+# Radiomics Group Home Page
 
-Radiomics Vhio Group
+Radiomics  Group
+
 
 See [Documentation](documentation/README.MD)
