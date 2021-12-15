@@ -1,0 +1,39 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-Research-single{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" .Section "content" .)}}
+<div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="Research Research-single">
+        <div class="content">{{.Content}}</div>
+      </div>
+    </div>
+    {{ if .Params.images }}
+    <div class="col-12 pt-4 pt-md-10">
+      <h2 class="mb-2 text-uppercase">Gallery</h2>
+      <div class="masonry">
+        {{ range .Params.images }}
+          <div class="Research-image item">
+            <img src="{{ . | relURL }}"/>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+{{ define "footer_js" }}
+{{ $library := resources.Get "js/libs/library.js" }}
+{{ $team := resources.Get "js/pages/team.js" }}
+{{ $teamJS := slice $library $team |resources.Concat "js/team.js" }}
+{{ if .Site.IsServer }}
+  <script type="text/javascript" src="{{ $teamJS.RelPermalink }}"></script>
+  {{ else }}
+  <script type="text/javascript" src="{{ ($teamJS | minify | fingerprint).RelPermalink }}"></script>
+  {{ end }}
+{{ end }}

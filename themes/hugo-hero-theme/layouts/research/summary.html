@@ -1,0 +1,13 @@
+<div class="Research Research-summary">
+  {{ if .Params.thumbnail }}
+  <div class="Research-image">
+    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}"/></a>
+  </div>
+  {{ end }}
+  <div class="Research-content">
+    <h2 class="Research-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    {{ .Content | truncate 120 "..." | plainify }}
+  </div>
+</div>
