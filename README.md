@@ -1,6 +1,7 @@
 # Radiomics Group Home Page
 
-Radiomics  Group
-
+Radiomics Group
 
 See [Documentation](documentation/README.MD)
+
+
