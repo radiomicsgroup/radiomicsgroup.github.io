@@ -40,17 +40,17 @@ S M Zunder, **R Perez-Lopez**, et al. W E Mesker. Correlation of the tumour-stro
 I Matos, et al., **Perez-Lopez R**, Garralda, E. Capturing Hyperprogressive disease with immune checkpoint inhibitors using RECIST 1.1 criteria. *Clinical Cancer Research* 26, 8, 1846-1855 (2020); ISSN 1078-0432; doi: [10.1158/1078-0432.CCR-19-2226](https://doi.org/10.1158/1078-0432.ccr-19-2226)
 
 ### Recent grants and awards
-**Instituto de Salud Carlos III**. "PRECISION: Deciphering colon cancer heterogeneitywith machine learning and precision imaging". Role: principal investigator. Amount: €159,710. Duration: 2022-2025.
+**Instituto de Salud Carlos III**. "PRECISION: Deciphering colon cancer heterogeneitywith machine learning and precision imaging". Role: principal investigator. Duration: 2022-2025.
 
-**CRIS Cancer Foundation**. "Personalized response imaging biomarker for cancer immunotherapy". Role: principal investigator. Amount: €400,000. Duration: 2020-2025.
+**CRIS Cancer Foundation**. "Personalized response imaging biomarker for cancer immunotherapy". Role: principal investigator. Duration: 2020-2025.
 
-**Innovative Medicine Initiative - Horizon2020**. "Immune-Image: specific imaging of immune cell dynamics using novel tracer strategies". Role: team member. Amount: €27,200,801. Duration: 2019-2024. 
+**Innovative Medicine Initiative - Horizon2020**. "Immune-Image: specific imaging of immune cell dynamics using novel tracer strategies". Role: team member. Duration: 2019-2024. 
 
-**Fundación La Marato de TV3**. "PrecIMet: precision imaging for bone metastases". Role: principal investigator. Amount: €298,753. Duration: 2020-2023.
+**Fundación La Marato de TV3**. "PrecIMet: precision imaging for bone metastases". Role: principal investigator. Duration: 2020-2023.
 
-**Fundación FERO**. "Unraveling the tumor immunophenotype with deep-learning based radiogenomics". Role: principal investigator. Amount: €80,000. Duration: 2020-2022.
+**Fundación FERO**. "Unraveling the tumor immunophenotype with deep-learning based radiogenomics". Role: principal investigator. Duration: 2020-2022.
 
-**Instituto de Salud Carlos III**. "Estudio de validación clínica de la resonancia de cuerpo completo con difusión en pacientes con cáncer de próstata resistente a la castración y metástasis ósea". Role: principal investigator. Amount: €123,420. Duration: 2019-2021.
+**Instituto de Salud Carlos III**. "Estudio de validación clínica de la resonancia de cuerpo completo con difusión en pacientes con cáncer de próstata resistente a la castración y metástasis ósea". Role: principal investigator. Duration: 2019-2021.
 
-**Prostate Cancer Foundation**. "A two-stage study to clinically qualify whole-body diffusion-weighted MRI in patients with metastatic castration resistant prostate carcinoma with bone metastases". Role: principal investigator. Amount: €225,000. Duration: 2018-2021. 
+**Prostate Cancer Foundation**. "A two-stage study to clinically qualify whole-body diffusion-weighted MRI in patients with metastatic castration resistant prostate carcinoma with bone metastases". Role: principal investigator. Duration: 2018-2021. 
 
