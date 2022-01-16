@@ -46,7 +46,7 @@ J Cohen-Adad, ..., **F Grussu**, et al. Generic acquisition protocol for quantit
 
 
 ### Recent grants and awards
-**Agència de Gestió d’Ajuts Universitaris i de Recerca**, [2020 Beatriu de Pinós post-doctoral fellowship](https://agaur.gencat.cat/en/Beatriu-de-Pinos/el-programa/index.html), [Marie Sklodowska-Curie Actions COFUND](https://cordis.europa.eu/project/id/801370): "Advancing Magnetic Resonance Imaging against liver cancer". Role: principal investigator (fellow). Amount: €144,300. Duration: 01/2022-12/2024.
+**Agència de Gestió d’Ajuts Universitaris i de Recerca**, [2020 Beatriu de Pinós post-doctoral fellowship](https://agaur.gencat.cat/en/Beatriu-de-Pinos/el-programa/index.html): "Advancing Magnetic Resonance Imaging against liver cancer". Role: principal investigator (fellow). Duration: 01/2022-12/2024.
 
 **3rd prize**, 2021 [International Society for Magentic Resonance in Medicine](https://www.ismrm.org) (ISMRM) [MR of Cancer Study Group](https://groups.ismrm.org/mr-of-cancer), Trainee competition for abstract [Grussu et al, Proc ISMRM 2021, p.0699](https://www.ismrm.org/21/program-files/O-65.htm).
 
