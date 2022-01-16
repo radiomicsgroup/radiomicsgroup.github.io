@@ -48,4 +48,4 @@ A Garcia-Ruiz, P Naval-Baudin, **M Ligero**, et al., R Perez-Lopez. Precise enha
 
 ### Recent grants and awards
 
-**2020 PERIS-Predoctoral fellowship**. "Precision Medicine and Artificial Intelligence for characterizing cancer response to immunotherapy" Role: Predoctoral Researcher. Amount: €103,040. Duration: 01/2021-12/2024.
+**2020 PERIS-Predoctoral fellowship**. "Precision Medicine and Artificial Intelligence for characterizing cancer response to immunotherapy" Role: Predoctoral Researcher. Duration: 01/2021-12/2024.
