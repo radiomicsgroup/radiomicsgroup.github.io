@@ -31,6 +31,6 @@ Olivia obtained a BS. in Biomedical Engineering from Universitat de Barcelona (2
 
 
 ### Recent grants and awards
-**Fulbright España**, [2019 Fulbright Fellowship](https://fulbright.es/programas-y-becas/convocatorias/ampliacion-de-estudios/2022-2023/1677/). Master of Translational Medicine (UC Berkeley - UC San Francisco). Amount: 60,000USD. Duration:08/2019-07/2020.
+**Fulbright España**, [2019 Fulbright Fellowship](https://fulbright.es/programas-y-becas/convocatorias/ampliacion-de-estudios/2022-2023/1677/). Master of Translational Medicine (UC Berkeley - UC San Francisco). Duration: 08/2019-07/2020.
 
-**Fundación La Caixa**, [2021 INPhINIT Retaining Fellowship](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-retaining). PhD in Biomedical Engineering (Universitat Politècnica de Catalunya). Amount: €120,000. Duration:12/2021-12/2024.
+**Fundación La Caixa**, [2021 INPhINIT Retaining Fellowship](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-retaining). PhD in Biomedical Engineering (Universitat Politècnica de Catalunya). Duration: 12/2021-12/2024.
