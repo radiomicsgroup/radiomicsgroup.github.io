@@ -37,5 +37,5 @@ M Ligero, O Jordi-Ollero, **K Bernatowicz**, et al., R Perez-Lopez. Minimizing a
 
 ### Recent grants and awards
 
-**2019 Beatriu de Pinós post-doctoral fellowship**. "Improving patient Selection for immunotherapy: Multi-Omics signature for Response Evaluation (ISeeMORE)". Role: principal investigator (fellow). Award: €144,300. Duration: 10/2020-09/2023.
+**2019 Beatriu de Pinós post-doctoral fellowship**. "Improving patient Selection for immunotherapy: Multi-Omics signature for Response Evaluation (ISeeMORE)". Role: principal investigator (fellow). Duration: 10/2020-09/2023.
 
