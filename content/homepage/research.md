@@ -1,7 +1,9 @@
 ---
 title: 'Our Group'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'team/radiomics_team_1.jpeg'
+featured: true
+draft: false
 button: 'team'
 buttonLink: 'team'
 ---
