@@ -17,7 +17,7 @@ destination = "docs"
     meta_description = "Radiomics Group: quantitative imaging biomarkers for precision medicine to improve cancer patient care."
     meta_og_title = "Radiomics Group"
     meta_og_type = "website"
-    meta_og_url = "https://radiomicsvhio.github.io"
+    meta_og_url = "https://radiomicsgroup.github.io"
     meta_og_description = "Radiomics Group: quantitative imaging biomarkers for precision medicine to improve cancer patient care."
     meta_twitter_card = "summary"
     meta_twitter_site = "@radiomicsVHIO"
@@ -29,7 +29,7 @@ destination = "docs"
     weight = 1
 
 [[menu.main]]
-    name = "Research"
+    name = "Grants"
     url = "/research/"
     weight = 2
 
