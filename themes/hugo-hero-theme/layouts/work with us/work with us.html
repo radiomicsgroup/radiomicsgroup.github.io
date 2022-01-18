@@ -1,0 +1,27 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-contact{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+<div class="intro intro-small">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-6 col-md-4">
+      {{ .Content }}
+          
+    </div>
+    <div class="col-12 col-md-8">
+      <img src="{{ .Site.BaseURL }}{{ .Params.photo }}" class="team-profile-imagec"/>
+    </div>
+  </div>
+</div>
+{{ end }}

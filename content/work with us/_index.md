@@ -1,12 +1,11 @@
 ---
-title: 'Work with us'
-icon: 'team/radiomics_team_1.jpeg'
-featured: true
+title: ''
+photo: 'team/radiomics_team_2.jpeg'
 weight: 2
 date: 2018-02-10T11:52:18+07:00
 heroHeading: 'Work with us'
 heroSubHeading: ''
-heroBackground: 'back/research.jpg'
+heroBackground: 'back/work-us.png'
 
 ---
 
