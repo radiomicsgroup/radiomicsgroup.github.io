@@ -39,8 +39,8 @@ destination = "docs"
     weight = 3
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Work with us"
+    url = "/work-with-us/"
     weight = 4
 
 [[menu.main]]
