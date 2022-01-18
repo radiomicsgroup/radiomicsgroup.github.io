@@ -2,7 +2,6 @@
 title: 'Work with us'
 icon: 'team/radiomics_team_1.jpeg'
 featured: true
-draft: false
 weight: 6
 date: 2018-02-10T11:52:18+07:00
 heroHeading: 'Work with us'
