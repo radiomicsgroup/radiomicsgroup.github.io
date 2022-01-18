@@ -30,7 +30,7 @@ Below you can find a list of currently funded projects that involve members of t
 
 **2020 PERIS pre-doctoral fellowship**. "Precision Medicine and Artificial Intelligence for characterizing cancer response to immunotherapy". Fellow: Marta Ligero. Duration: 01/2021-12/2024.
 
-**2019 Beatriu de Pinós post-doctoral fellowship**. "Improving patient Selection for immunotherapy: Multi-Omics signature for Response Evaluation (ISeeMORE)". Principal investigator: Kinga Bernatowicz (fellow). Duration: 10/2020-09/2023.
+**2019 Beatriu de Pinós post-doctoral fellowship**. "Improving patient Selection for immunotherapy: Multi-Omics signature for Response Evaluation (ISeeMORE)". Fellow: Kinga Bernatowicz. Duration: 10/2020-09/2023.
 
 **Fundación La Marato de TV3**. "PrecIMet: precision imaging for bone metastases". Role: principal investigator. Duration: 2020-2023.
 
