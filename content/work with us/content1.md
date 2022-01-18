@@ -2,7 +2,7 @@
 title: 'Work with us'
 icon: 'team/radiomics_team_1.jpeg'
 featured: true
-weight: 6
+weight: 2
 date: 2018-02-10T11:52:18+07:00
 heroHeading: 'Work with us'
 heroSubHeading: ''
@@ -30,32 +30,32 @@ We support qualified and motivated students in their fellowship applications. Be
 
 ### For PhDs
 
-<li>[La Caixa Doctoral INPhINIT Fellowships](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria)
+  *[La Caixa Doctoral INPhINIT Fellowships](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria)
 
-*[Marie Sklodowska-Curie Actions: Doctoral Fellowship](https://ec.europa.eu/research/mariecurieactions/calls/msca-doctoral-networks-2021)
+  *[Marie Sklodowska-Curie Actions: Doctoral Fellowship](https://ec.europa.eu/research/mariecurieactions/calls/msca-doctoral-networks-2021)
 
-*[Boehringer Ingelheim PhD Fellowship](https://www.bifonds.de/fellowships-grants/phd-fellowships.html)
+  *[Boehringer Ingelheim PhD Fellowship](https://www.bifonds.de/fellowships-grants/phd-fellowships.html)
 
--[Becas de Excelencia Rafael del Pino](https://frdelpino.es/categoria-beca/01_becas-de-excelencia/)
+  *[Becas de Excelencia Rafael del Pino](https://frdelpino.es/categoria-beca/01_becas-de-excelencia/)
 
-* [FI: Ajuts per la Contractació de Personal Investigador Predoctoral en Formació](https://agaur.gencat.cat/es/beques-i-ajuts/convocatories-per-temes/Ajuts-per-a-la-contractacio-de-personal-investigador-predoctoral-en-formacio-FI-2022)
+  *[FI: Ajuts per la Contractació de Personal Investigador Predoctoral en Formació](https://agaur.gencat.cat/es/beques-i-ajuts/convocatories-per-temes/Ajuts-per-a-la-contractacio-de-personal-investigador-predoctoral-en-formacio-FI-2022)
 
-* [FPU: Ayudas para la formación de profesorado universitario](https://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/general/99/998758/ficha/998758-informacion-comun.html)
+  *[FPU: Ayudas para la formación de profesorado universitario](https://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/general/99/998758/ficha/998758-informacion-comun.html)
 
 
 #### For Postdocs
 
-* [La Caixa Postdoctoral Junior Leader Fellowships](https://fundacionlacaixa.org/es/becas-posdoctorado-junior-leader-convocatoria)
+  *[La Caixa Postdoctoral Junior Leader Fellowships](https://fundacionlacaixa.org/es/becas-posdoctorado-junior-leader-convocatoria)
 
-* [Marie Sklodowska-Curie Actions: Postdoctoral Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships)
+  *[Marie Sklodowska-Curie Actions: Postdoctoral Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships)
 
-* [Beatriu de Pinós Fellowship](https://agaur.gencat.cat/es/Beatriu-de-Pinos/convocatories/estat-de-les-convocatories/)
+  *[Beatriu de Pinós Fellowship](https://agaur.gencat.cat/es/Beatriu-de-Pinos/convocatories/estat-de-les-convocatories/)
 
-* [Juan de la Cierva Fellowship](https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-formacion-2021)
+  *[Juan de la Cierva Fellowship](https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-formacion-2021)
 
-* [Ramon y Cajal Fellowship](https://www.deusto.es/cs/Satellite/deusto/en/university-deusto/admissions-administration-and-grants/scholarships-and-grants-/ramon-y-cajal/beca)
+  *[Ramon y Cajal Fellowship](https://www.deusto.es/cs/Satellite/deusto/en/university-deusto/admissions-administration-and-grants/scholarships-and-grants-/ramon-y-cajal/beca)
 
-* [Leonardo Fellowship](https://www.redleonardo.es/becas/becas-leonardo-investigadores-creadores-culturales-2021/)
+  *[Leonardo Fellowship](https://www.redleonardo.es/becas/becas-leonardo-investigadores-creadores-culturales-2021/)
 
-* [Postdoctal AECC Fellowship](https://www.contraelcancer.es/es/area-investigador/ayudas/talento/Postdoctoral-2021)
+  *[Postdoctal AECC Fellowship](https://www.contraelcancer.es/es/area-investigador/ayudas/talento/Postdoctoral-2021)
 
