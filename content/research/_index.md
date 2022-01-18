@@ -8,6 +8,7 @@ heroBackground: 'back/research.jpg'
 
 Below you can find a list of currently funded projects that involve members of the Radiomics Group.
 
+
 ### International grants
 **Horizon 2020**. "Building Data Rich Clinical Trials (DART)." Team member: Raquel Perez-Lopez. Duration: 2021-2026.
 
