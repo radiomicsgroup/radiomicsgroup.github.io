@@ -1,12 +1,17 @@
 ---
 title: 'Work with us'
+icon: 'team/radiomics_team_1'
+featured: true
+draft: false
+weight: 6
 date: 2018-02-10T11:52:18+07:00
 heroHeading: 'Work with us'
 heroSubHeading: ''
 heroBackground: 'back/research.jpg'
+
 ---
 
->We are always looking for collaborative and energetic scientists (undergraduate, graduate, postdocs, clinicians, research assistants etc.) with a strong interest in Medical Imaging, Computer Science, Artificial Intelligence or related subjects. If you are interested in joining us or collaborating with us, let's [get in touch!](https://radiomicsgroup.github.io/contact/)
+We are always looking for collaborative and energetic scientists (undergraduate, graduate, postdocs, clinicians, research assistants etc.) with a strong interest in Medical Imaging, Computer Science, Artificial Intelligence or related subjects. **If you are interested in joining us or collaborating with us, let's [get in touch!](https://radiomicsgroup.github.io/contact/)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <br/>                                                                               
 
@@ -20,7 +25,7 @@ heroBackground: 'back/research.jpg'
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <br/>                                                                               
 
 
-# Fellowships
+## Fellowships
 
 We support qualified and motivated students in their fellowship applications. Below you can see a list of competitive fellowships:
 
@@ -39,7 +44,7 @@ We support qualified and motivated students in their fellowship applications. Be
 * [FPU: Ayudas para la formación de profesorado universitario](https://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/general/99/998758/ficha/998758-informacion-comun.html)
 
 
-### For Postdocs
+#### For Postdocs
 
 * [La Caixa Postdoctoral Junior Leader Fellowships](https://fundacionlacaixa.org/es/becas-posdoctorado-junior-leader-convocatoria)
 
