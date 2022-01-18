@@ -32,7 +32,7 @@ Below you can find a list of currently funded projects that involve members of t
 
 **2019 Beatriu de Pinós post-doctoral fellowship**. "Improving patient Selection for immunotherapy: Multi-Omics signature for Response Evaluation (ISeeMORE)". Fellow: Kinga Bernatowicz. Duration: 10/2020-09/2023.
 
-**Fundación La Marato de TV3**. "PrecIMet: precision imaging for bone metastases". Role: principal investigator. Duration: 2020-2023.
+**Fundación La Marato de TV3**. "PrecIMet: precision imaging for bone metastases". Principal investigator: Raquel Perez-Lopez. Duration: 2020-2023.
 
 **Fundación FERO**. "Unraveling the tumor immunophenotype with deep-learning based radiogenomics". Principal investigator: Raquel Perez-Lopez. Duration: 2020-2022.
 
