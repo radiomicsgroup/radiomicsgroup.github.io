@@ -42,6 +42,10 @@ I Matos, et al., **Perez-Lopez R**, Garralda, E. Capturing Hyperprogressive dise
 ### Recent grants and awards
 **Instituto de Salud Carlos III**. "PRECISION: Deciphering colon cancer heterogeneitywith machine learning and precision imaging". Role: principal investigator. Duration: 2022-2025.
 
+**Horizon 2020**. "Building Data Rich Clinical Trials (DART)."  Role: team member. Duration: 2021-2026.
+
+**Fundación Científica Asociación Española Contra el Cáncer (AECC)**. "Tumoral senescence induced by anti-cancer therapies constitutes a novel prognostic biomarker and a therapeutic target". Role: team member. Duration: 2021-2026.
+
 **CRIS Cancer Foundation**. "Personalized response imaging biomarker for cancer immunotherapy". Role: principal investigator. Duration: 2020-2025.
 
 **Innovative Medicine Initiative - Horizon2020**. "Immune-Image: specific imaging of immune cell dynamics using novel tracer strategies". Role: team member. Duration: 2019-2024. 
@@ -50,7 +54,7 @@ I Matos, et al., **Perez-Lopez R**, Garralda, E. Capturing Hyperprogressive dise
 
 **Fundación FERO**. "Unraveling the tumor immunophenotype with deep-learning based radiogenomics". Role: principal investigator. Duration: 2020-2022.
 
-**Instituto de Salud Carlos III**. "Estudio de validación clínica de la resonancia de cuerpo completo con difusión en pacientes con cáncer de próstata resistente a la castración y metástasis ósea". Role: principal investigator. Duration: 2019-2021.
+**Instituto de Salud Carlos III**. "Estudio de validación clínica de la resonancia de cuerpo completo con difusión en pacientes con cáncer de próstata resistente a la castración y metástasis ósea". Role: principal investigator. Duration: 2019-2022.
 
-**Prostate Cancer Foundation**. "A two-stage study to clinically qualify whole-body diffusion-weighted MRI in patients with metastatic castration resistant prostate carcinoma with bone metastases". Role: principal investigator. Duration: 2018-2021. 
+**Prostate Cancer Foundation**. "A two-stage study to clinically qualify whole-body diffusion-weighted MRI in patients with metastatic castration resistant prostate carcinoma with bone metastases". Role: principal investigator. Duration: 2018-2022. 
 
