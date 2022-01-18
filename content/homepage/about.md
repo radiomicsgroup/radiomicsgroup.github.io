@@ -1,5 +1,5 @@
 ---
-title: 'Contact us!'
+title: 'Get in touch!'
 weight: 2
 background: ''
 button: 'Contact'
