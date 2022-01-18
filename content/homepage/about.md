@@ -1,9 +1,8 @@
 ---
-title: 'Our Origin'
+title: 'Contact us!'
 weight: 2
 background: ''
-button: 'About Us'
-buttonLink: 'about'
+button: 'Contact'
+buttonLink: 'contact'
 ---
 
-Would you like to find out more about our group?
