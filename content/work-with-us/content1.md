@@ -1,6 +1,6 @@
 ---
 title: 'Work with us'
-icon: 'team/radiomics_team_1'
+icon: 'team/radiomics_team_1.jpeg'
 featured: true
 draft: false
 weight: 6
