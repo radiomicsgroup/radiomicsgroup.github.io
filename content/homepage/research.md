@@ -2,7 +2,7 @@
 title: 'Our Group'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Group'
+button: 'team'
 buttonLink: 'team'
 ---
 
