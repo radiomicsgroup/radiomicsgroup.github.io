@@ -30,13 +30,13 @@ We support qualified and motivated students in their fellowship applications. Be
 
 ### For PhDs
 
-* [La Caixa Doctoral INPhINIT Fellowships](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria)
+<li>[La Caixa Doctoral INPhINIT Fellowships](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria)
 
-* [Marie Sklodowska-Curie Actions: Doctoral Fellowship](https://ec.europa.eu/research/mariecurieactions/calls/msca-doctoral-networks-2021)
+*[Marie Sklodowska-Curie Actions: Doctoral Fellowship](https://ec.europa.eu/research/mariecurieactions/calls/msca-doctoral-networks-2021)
 
-* [Boehringer Ingelheim PhD Fellowship](https://www.bifonds.de/fellowships-grants/phd-fellowships.html)
+*[Boehringer Ingelheim PhD Fellowship](https://www.bifonds.de/fellowships-grants/phd-fellowships.html)
 
-* [Becas de Excelencia Rafael del Pino](https://frdelpino.es/categoria-beca/01_becas-de-excelencia/)
+-[Becas de Excelencia Rafael del Pino](https://frdelpino.es/categoria-beca/01_becas-de-excelencia/)
 
 * [FI: Ajuts per la Contractació de Personal Investigador Predoctoral en Formació](https://agaur.gencat.cat/es/beques-i-ajuts/convocatories-per-temes/Ajuts-per-a-la-contractacio-de-personal-investigador-predoctoral-en-formacio-FI-2022)
 
