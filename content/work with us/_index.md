@@ -1,12 +1,9 @@
 ---
-title: ''
-photo: 'team/radiomics_team_2.jpeg'
-weight: 2
+title: 'Work with us'
 date: 2018-02-10T11:52:18+07:00
 heroHeading: 'Work with us'
 heroSubHeading: ''
 heroBackground: 'back/work-us.png'
-
 ---
 
 We are always looking for collaborative and energetic scientists (undergraduate, graduate, postdocs, clinicians, research assistants etc.) with a strong interest in Medical Imaging, Computer Science, Artificial Intelligence or related subjects. **If you are interested in joining us or collaborating with us, let's [get in touch!](https://radiomicsgroup.github.io/contact/)**
@@ -23,7 +20,7 @@ We are always looking for collaborative and energetic scientists (undergraduate,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <br/>                                                                               
 
 
-## Fellowships
+# Fellowships
 
 We support qualified and motivated students in their fellowship applications. Below you can see a list of competitive fellowships:
 
