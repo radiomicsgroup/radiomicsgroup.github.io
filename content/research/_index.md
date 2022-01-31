@@ -6,24 +6,30 @@ heroSubHeading: ''
 heroBackground: 'back/research.jpg'
 ---
 
-Below you can find a list of currently funded projects that involve members of the Radiomics Group.
+Below you can find a list of projects that involve members of the Radiomics Group.
 
 
-### International grants
-**Horizon 2020**. "Building Data Rich Clinical Trials (DART)." Team member: Raquel Perez-Lopez. Duration: 2021-2026.
+### Main ongoing R&D projects
+**Instituto de Salud Carlos III**. "Deciphering colon cancer heterogeneity with machine learning and precision imaging". Duration: 2022-2025. 
 
-**CRIS Cancer Foundation**. "Personalized response imaging biomarker for cancer immunotherapy". Principal investigator: Raquel Perez-Lopez. Duration: 2020-2025.
+**Fundación Científica Asociación Española Contra el Cáncer-Proyectos Coordinados**. "Tumoral senescence induced by anti-cancer therapiesconstitutes a novel prognostic biomarker and a therapeutic target". Duration: 2021-2026. 
 
-**Prostate Cancer Foundation**. "A two-stage study to clinically qualify whole-body diffusion-weighted MRI in patients with metastatic castration resistant prostate carcinoma with bone metastases". Principal investigator: Raquel Perez-Lopez. Duration: 2018-2022. 
+**Horizon 2020 Program-European Commission**. "DART: Building Data Rich Clinical Trials". Duration: 2021-2026.
 
-**Innovative Medicine Initiative - Horizon 2020**. "Immune-Image: specific imaging of immune cell dynamics using novel tracer strategies". Team member: Raquel Perez-Lopez. Duration: 2019-2024. 
+**CRIS Cancer Foundation**. "Personalized response Imaging biomarker for Cancer immunotherapy". Duration: 2020-2025. 
+
+**Fundación La Marató de TV3**. "PrecIMet: precision imaging for bone metastases". Duration: 2020-2023.
+
+**Fundación FERO**. "Unraveling the tumor immunophenotype with deep-learning based radiogenomics". Duration: 2020-2022.
+
+**Prostate Cancer Foundation**. "A two-stage study to clinically qualify whole-body diffusion-weighted MRI in patients with metastatic castration resistant prostate carcinoma with bone metastases". Duration: 2018-2022.
+
+**Instituto de Salud Carlos III**. "Estudio de validación clínica de la resonancia de cuerpo completo con difusión en pacientes con cáncer de próstata resistente a la castración y metástasis ósea". Duration: 2019-2022.
+
+**Horizon 2020 Innovative Medicine Initiative**. "Immune-Image: Specific Imaging of Immune Cell Dynamics Using Novel Tracer Strategies". Duration: 2019-2024. 
 
 
-## National grants
-**Instituto de Salud Carlos III**. "PRECISION: Deciphering colon cancer heterogeneitywith machine learning and precision imaging". Principal investigator: Raquel Perez-Lopez. Duration: 2022-2025.
-
-**Fundación Científica Asociación Española Contra el Cáncer (AECC)**. "Tumoral senescence induced by anti-cancer therapies constitutes a novel prognostic biomarker and a therapeutic target". Team member: Raquel Perez-Lopez. Duration: 2021-2026.
-
+### Personal grants and fellowships
 **2020 Beatriu de Pinós post-doctoral fellowship**. "Advancing Magnetic Resonance Imaging against liver cancer". Fellow: Francesco Grussu. Duration: 01/2022-12/2024.
 
 **2021 INPhINIT La Caixa Retaining Pre-doctoral fellowship**. PhD in Biomedical Engineering (Universitat Politècnica de Catalunya). Fellow: Olivia Prior. Duration: 12/2021-12/2024.
@@ -32,14 +38,8 @@ Below you can find a list of currently funded projects that involve members of t
 
 **2019 Beatriu de Pinós post-doctoral fellowship**. "Improving patient Selection for immunotherapy: Multi-Omics signature for Response Evaluation (ISeeMORE)". Fellow: Kinga Bernatowicz. Duration: 10/2020-09/2023.
 
-**Fundación La Marato de TV3**. "PrecIMet: precision imaging for bone metastases". Principal investigator: Raquel Perez-Lopez. Duration: 2020-2023.
 
-**Fundación FERO**. "Unraveling the tumor immunophenotype with deep-learning based radiogenomics". Principal investigator: Raquel Perez-Lopez. Duration: 2020-2022.
+### Previous projects
+**European Commission-funded ATTRACT program**. Detection of genetic abnormalities using persistent homology in radiomics. European Commission funded ATTRACT program. Duration: 2019-2020.
 
-**Instituto de Salud Carlos III**. "Estudio de validación clínica de la resonancia de cuerpo completo con difusión en pacientes con cáncer de próstata resistente a la castración y metástasis ósea". Principal investigator: Raquel Perez-Lopez. Duration: 2019-2022.
-
-
-## Private sector grants
-**AstraZeneca Spain**. "Personalized REsponse Imaging biomarker for Cancer immunoTherapy (PREdICT)". Principal investigator: Raquel Perez-Lopez. Duration: 2020-2023.
-
-
+**USA Department of Defense Impact Award**. Clinical Qualification of DNA Repair Defects as Biomarkers in Metastatic Prostate Cancer Using Integrated Genomics and Tissue-Based Functional Assays. 
