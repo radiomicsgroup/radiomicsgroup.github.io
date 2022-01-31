@@ -40,6 +40,6 @@ Below you can find a list of projects that involve members of the Radiomics Grou
 
 
 ### Previous projects
-**European Commission-funded ATTRACT program**. Detection of genetic abnormalities using persistent homology in radiomics. European Commission funded ATTRACT program. Duration: 2019-2020.
+**European Commission-funded ATTRACT program**. "Detection of genetic abnormalities using persistent homology in radiomics". Duration: 2019-2020.
 
-**USA Department of Defense Impact Award**. Clinical Qualification of DNA Repair Defects as Biomarkers in Metastatic Prostate Cancer Using Integrated Genomics and Tissue-Based Functional Assays. 
+**USA Department of Defense Impact Award**. "Clinical Qualification of DNA Repair Defects as Biomarkers in Metastatic Prostate Cancer Using Integrated Genomics and Tissue-Based Functional Assays". 
