@@ -9,7 +9,7 @@ heroHeading: 'Alonso Garcia-Ruiz'
 heroSubHeading: 'Predoctoral Researcher'
 ---
 
-Alonso is a biomedical engineer and has been member of the Radiomics team since 2018. His main focus is on processing and analysis of medical images. He is currently pursuing his PhD, working on whole-body diffusion MRI as a biomarker of bone metastases, and on brain perfusion MRI for tumour characterization. 
+Alonso is a biomedical engineer and has been member of the Radiomics team since 2018. He is currently pursuing his PhD, working on whole-body diffusion MRI as a biomarker of bone metastases, and on brain perfusion MRI for tumour characterization.                                                      
 
 ### Scientific trajectory 
 In 2014, he obtained his B.Sc. at [Universidad Carlos III de Madrid](https://www.uc3m.es) and his M.Sc. at [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/) in 2017, focusing on image processing, but also glancing at medical image acquisition, computer vision and machine learning within the healthcare context.
