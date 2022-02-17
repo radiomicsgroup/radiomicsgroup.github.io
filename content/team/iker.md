@@ -17,7 +17,7 @@ Iker obtained a BS. in Mathematics from Universidad del País Vasco/ Euskal Herr
             
              
 
-Is currently studying a Master in Statistics and Operations Research (MESIO) from Universitat Politècnica de Catalunya. Iker obtained a BBVA Foundation Fellowship  to carry out his master thesis at the Radiomics group.
+Iker is currently studying a Master in Statistics and Operations Research (MESIO) from Universitat Politècnica de Catalunya and will be carrying out his master thesis at the Radiomics group thanks to a BBVA Foundation Fellowship.
 
 
 ### Contact and links
