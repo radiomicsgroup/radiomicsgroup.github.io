@@ -10,7 +10,7 @@ heroSubHeading: 'Research Assistant'
 heroBackground: 'team/team2.jpg'
 ---
 
-Carlos is a biomedical engineer who joined the Radiomics group in 2022. His main focus is on processing and analysis of MRI images to identify new imaging biomarkers of tumoral senescence.                                                                                                                  
+Carlos is a biomedical engineer who joined the Radiomics group in 2022. His main focus is on MRI image processing and analysis to identify new imaging biomarkers of tumoral senescence.                                                                                                                  
                                                      <br/>
 
 
