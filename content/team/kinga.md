@@ -9,7 +9,9 @@ heroHeading: 'Kinga Bernatowicz'
 heroSubHeading: 'Senior Postdoctoral Researcher'
 heroBackground: 'team/kinga_back.jpg'
 ---
-Driven by scientific curiosity, Kinga has gained a broad range of expertise in engineering, medical physics and environmental science. She joined the Radiomics Group in November 2019 and has focused on investigating tumor heterogeneity and integrating multi-omics data in predictive models for immunotherapy.
+Driven by scientific curiosity, Kinga has gained a broad range of expertise in engineering, medical physics and environmental science. She joined VHIO in November 2019 and has focused on investigating tumor heterogeneity and integrating multi-omics data in predictive models for immunotherapy.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ### Scientific trajectory
 
 Her academic journey started at [Gdańsk University of Technology](https://pg.edu.pl/en), where she obtained an engineering degree (B.Sc. in Environmental Protection and Management). She had always been interested in physics and soon after received her M.Sc. (Nuclear Engineering) and Ph.D. (Physics) degrees from [ETH Zurich](https://ethz.ch). Working with Tony Lomax at the [Paul Scherrer Institute](https://psi.ch) and later as a post-doc at [UCLouvain](https://uclouvain.be), she contributed to the development of respiratory-motion-adapted imaging and delivery technologies for proton therapy of cancer patients. As a senior post-doc at the [Vall d'Hebron Institute of Oncology](https://www.vhio.net/), she was awarded an MSCA-COFUND grant [Beatriu de Pinós](https://agaur.gencat.cat/en/Beatriu-de-Pinos/postdocs-bp/coneix-els-postdocs-bp/ciencies-mediques-i-de-la-salut/) to focus on investigating tumor heterogeneity using imaging habitats technique and developing multi-omics signature for predicting response to immunotherapy. 
