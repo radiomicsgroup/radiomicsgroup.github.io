@@ -33,15 +33,13 @@ He has released several open-source packages for advanced image analysis:
 * [SARDU-Net](https://github.com/fragrussu/sardunet), for data-driven quantitative MRI protocol design;
 * [qMRINet](https://github.com/fragrussu/qMRINet), for deep learning MRI model fitting;
 * [MRItools](https://github.com/fragrussu/MRItools), providing a collection of tools useful in MRI research;
-* [MChepato](https://github.com/fragrussu/MChepato), relasing code and syntehtic data used in Grussu F et al, Magn Res Med 2022 (doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174)).
+* [MChepato](https://github.com/fragrussu/MChepato), code and data of Grussu et al, MRM 2022 (doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174)).
 
 
 ### Latest articles
 **F Grussu**, K Bernatowicz, I Casanova-Salas, N Castro, P Nuciforo, J Mateo, I Barba, R Perez-Lopez. Diffusion MRI signal cumulants and hepatocyte microstructure at fixed diffusion time: Insights from simulations, 9.4T imaging, and histology. *Magnetic Resonance in Medicine* 2022 (epub ahead of print); doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174).
 
 **F Grussu**, SB Blumberg, M Battiston, LS Kakkar, H Lin, A Ianuș, T Schneider, S Singh, R Bourne, S Punwani, D Atkinson, CAM Gandini Wheeler-Kingshott, E Panagiotaki, T Mertzanidou, DC Alexander. Feasibility of data-driven, model-free quantitative MRI protocol design: application to brain and prostate diffusion-relaxation imaging. *Frontiers in Physics* 2021, 9:752208; doi: [10.3389/fphy.2021.752208](https://doi.org/10.3389/fphy.2021.752208). 
-
-**F Grussu**, M Battiston, M Palombo, T Schneider, CAM Wheeler-Kingshott, DC Alexander. Deep learning model fitting for diffusion-relaxometry: a comparative study. *Proceedings of 2020 Computational Diffusion MRI* (MICCAI workshop) 2021, 159-172; doi: [10.1007/978-3-030-73018-5_13](https://doi.org/10.1007/978-3-030-73018-5_13).
 
 J Cohen-Adad, ..., **F Grussu**, et al. Generic acquisition protocol for quantitative MRI of the spinal cord. *Nature Protocols* 2021, 16:4611–4632; doi: [10.1038/s41596-021-00588-0](https://doi.org/10.1038/s41596-021-00588-0).
 
