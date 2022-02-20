@@ -36,6 +36,8 @@ He has released several open-source packages for advanced image analysis:
 
 
 ### Latest articles
+**F Grussu**, K Bernatowicz, I Casanova-Salas, N Castro, P Nuciforo, J Mateo, I Barba, R Perez-Lopez. Diffusion MRI signal cumulants and hepatocyte microstructure at fixed diffusion time: Insights from simulations, 9.4T imaging, and histology. *Magnetic Resonance in Medicine* 2022 (epub ahead of print); doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174).
+
 **F Grussu**, SB Blumberg, M Battiston, LS Kakkar, H Lin, A Ianuș, T Schneider, S Singh, R Bourne, S Punwani, D Atkinson, CAM Gandini Wheeler-Kingshott, E Panagiotaki, T Mertzanidou, DC Alexander. Feasibility of data-driven, model-free quantitative MRI protocol design: application to brain and prostate diffusion-relaxation imaging. *Frontiers in Physics* 2021, 9:752208; doi: [10.3389/fphy.2021.752208](https://doi.org/10.3389/fphy.2021.752208). 
 
 **F Grussu**, M Battiston, M Palombo, T Schneider, CAM Wheeler-Kingshott, DC Alexander. Deep learning model fitting for diffusion-relaxometry: a comparative study. *Proceedings of 2020 Computational Diffusion MRI* (MICCAI workshop) 2021, 159-172; doi: [10.1007/978-3-030-73018-5_13](https://doi.org/10.1007/978-3-030-73018-5_13).
