@@ -1,6 +1,6 @@
 ---
 title: 'Diffusion MRI signal cumulants and hepatocyte microstructure at fixed diffusion time: Insights from simulations, 9.4T imaging, and histology'
-date: 2022-02-18T15:15:26+10:00
+date: 2018-11-28 15:15:26 +1000
 icon: 'publications/GrussuFetalMRM2022.png'
 featured: true
 weight: 1
