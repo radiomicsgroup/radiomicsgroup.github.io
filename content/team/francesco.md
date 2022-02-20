@@ -28,7 +28,7 @@ Francesco is a biomedical engineer specialised in computational MRI, with almost
 
 
 ### Open-source research software
-He has released several open-source packages for advanced image analysis:
+He releases open-source repositories for advanced image analysis and containint code/data used in papers:
 * [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
 * [SARDU-Net](https://github.com/fragrussu/sardunet), for data-driven quantitative MRI protocol design;
 * [qMRINet](https://github.com/fragrussu/qMRINet), for deep learning MRI model fitting;
