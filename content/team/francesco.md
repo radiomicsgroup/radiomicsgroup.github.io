@@ -32,7 +32,8 @@ He has released several open-source packages for advanced image analysis:
 * [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
 * [SARDU-Net](https://github.com/fragrussu/sardunet), for data-driven quantitative MRI protocol design;
 * [qMRINet](https://github.com/fragrussu/qMRINet), for deep learning MRI model fitting;
-* [MRItools](https://github.com/fragrussu/MRItools), providing a collection of tools useful in MRI research.
+* [MRItools](https://github.com/fragrussu/MRItools), providing a collection of tools useful in MRI research;
+* [MChepato](https://github.com/fragrussu/MChepato), relasing code and syntehtic data used in Grussu F et al, Magn Res Med 2022 (doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174)).
 
 
 ### Latest articles
