@@ -15,10 +15,10 @@ Alonso is a biomedical engineer and has been member of the Radiomics team since 
 ### Scientific trajectory 
 In 2014, he obtained his B.Sc. at [Universidad Carlos III de Madrid](https://www.uc3m.es) and his M.Sc. at [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/) in 2017, focusing on image processing, but also glancing at medical image acquisition, computer vision and machine learning within the healthcare context.
 
-At VHIO, he has had the opportunity to work on identifying and analysing cancer treatment hyperprogression response in patients treated with immunotherapy, and has also analyzed diffusion MRI, looking for relations between functional imaging and histological evidence.
+At VHIO, he has had the opportunity to work on identifying and analysing cancer treatment hyperprogression response in patients treated with immunotherapy, and has also analyzed diffusion MRI, looking for relations between quantitative imaging and histological evidence.
 
 He has recently studied the role of MR imaging shape and texture in the prognosis of patients with brain glioblastoma and he is currently studying brain disease differentiation through DSC perfusion MRI.
-Learning a bit more every day about functional MRI, he is also analyzing the potential of diffusion-weighted imaging to assess the response to treatment of bone metastases.
+Learning a bit more every day about quantitative MRI, he is also analyzing the potential of diffusion-weighted imaging to assess the response to treatment of bone metastases.
 
 ### Links and contact
 - LinkedIn [![profile](/social/linkedin.svg)](https://www.linkedin.com/in/alonso-gr)
