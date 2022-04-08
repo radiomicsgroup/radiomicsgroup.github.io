@@ -4,7 +4,7 @@ date: 2018-11-28T15:15:26+10:00
 icon: 'team/alonso_medium.jpg'
 featured: true
 draft: false
-weight: 4
+weight: 6
 heroHeading: 'Alonso Garcia-Ruiz'
 heroSubHeading: 'Predoctoral Researcher'
 ---

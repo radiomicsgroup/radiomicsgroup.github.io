@@ -4,7 +4,7 @@ date: 2018-11-28T15:15:34+10:00
 icon: 'team/Marta_temporal2.jpg'
 featured: true
 draft: false
-weight: 5
+weight: 6
 heroHeading: 'Marta Ligero'
 heroSubHeading: 'Predoctoral Researcher'
 heroBackground: 'team/team2.jpg'
