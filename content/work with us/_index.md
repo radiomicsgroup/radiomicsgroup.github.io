@@ -9,16 +9,19 @@ heroBackground: 'back/work-us.png'
 
 We are always looking for collaborative and energetic scientists (undergraduate, graduate, postdocs, clinicians, research assistants etc.) with a strong interest in Medical Imaging, Computer Science, Artificial Intelligence or related subjects. <br/>  &nbsp;&nbsp;
 
-**If you are interested in joining us or collaborating with us, let's [get in touch!](https://radiomicsgroup.github.io/contact/)**
+**If you are interested in joining us or collaborating with us, let's [get in touch!](https://radiomicsgroup.github.io/contact)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <br/> 
 <br/>
 
 
 
-## Positions
+## Open positions
 
-**[OPENING SOON in May 2022] [3-year PhD studentship in Diffusion MRI and Artificial Intelligence in Oncology]** (Deadline: end of June 2022)
+**[OPENING SOON] 3-year PhD studentship in Diffusion MRI and Artificial Intelligence in Oncology** (Deadline: end of June 2022). Position information [here](https://radiomicsgroup.github.io/misc/phdMRI22.pdf). Application form accessible in the coming days - _watch this space!_ 
+
+
+## Closed positions
 
 **[CLOSED] [PhD Candidate](https://www.vhio.net/ref-43-2021-phd-student-in-magnetic-resonance-imaging/)** (Deadline: 11/11/2021)
 
