@@ -18,6 +18,8 @@ We are always looking for collaborative and energetic scientists (undergraduate,
 
 ## Positions
 
+**[OPENING SOON in May 2022] [3-year PhD studentship in Diffusion MRI and Artificial Intelligence in Oncology](Deadline: end of June 2022)
+
 **[CLOSED] [PhD Candidate](https://www.vhio.net/ref-43-2021-phd-student-in-magnetic-resonance-imaging/)** (Deadline: 11/11/2021)
 
 **[CLOSED] [PhD Candidate - VHIO Doctoral Fellowship](http://vhio.net/sever_ochoa/)** (Deadline: 27/09/2021)
