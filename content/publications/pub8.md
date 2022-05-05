@@ -9,5 +9,5 @@ draft: false
 paperurl: 'https://doi.org/10.1002/mrm.29174'
 ---
 
-F Grussu, K Bernatowicz, I Casanova-Salas, N Castro, P Nuciforo, J Mateo, I Barba, R Perez-Lopez. Diffusion MRI signal cumulants and hepatocyte microstructure at fixed diffusion time: Insights from simulations, 9.4T imaging, and histology. _Magnetic Resonance in Medicine_ 2022 (epub ahead of print); doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174).
+F Grussu, K Bernatowicz, I Casanova-Salas, N Castro, P Nuciforo, J Mateo, I Barba, R Perez-Lopez. Diffusion MRI signal cumulants and hepatocyte microstructure at fixed diffusion time: Insights from simulations, 9.4T imaging, and histology. _Magnetic Resonance in Medicine_ 88(1): 365-379 (2022); doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174).
 
