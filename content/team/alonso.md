@@ -27,6 +27,8 @@ Learning a bit more every day about quantitative MRI, he is also analyzing the p
 - Email [![profile](/social/mail.svg)](mailto:alonsogarcia@vhio.net)
 
 ### Relevant publications
+A Pons-Escoda, A Garcia-Ruiz, et al., R Perez-Lopez, C Majos. Voxel-level analysis of normalized DSC-PWI time-intensity curves: a potential generalizable approach and its proof of concept in discriminating glioblastoma and metastasis. Eur Radiol. 2022 Feb 1. doi: [10.1007/s00330-021-08498-1](https://doi.org/10.1007/s00330-021-08498-1). Epub ahead of print. PMID: 35103827.
+
 K Bernatowicz, F Grussu, M Ligero, Garcia-Ruiz A et al., R Perez-Lopez. Robust imaging habitat computation using voxel-wise radiomics features. *Scientific Reports* 11, 20133 (2021); doi:[10.1038/s41598-021-99701-2](https://doi.org/10.1038/s41598-021-99701-2).
 
 M Ligero, A Garcia-Ruiz, et al., R Perez-Lopez. A CT-based Radiomics Signature Is Associated with Response to Immune Checkpoint Inhibitors in Advanced Solid Tumors. *Radiology* 299, 1, 109-119 (2021); doi: [10.1148/radiol.2021200928](https://doi.org/10.1148/radiol.2021200928).

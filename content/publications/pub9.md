@@ -9,5 +9,5 @@ draft: false
 paperurl: 'https://doi.org/10.1007/s00330-021-08498-1'
 ---
 
-Pons-Escoda A, Garcia-Ruiz A, Naval-Baudin P, Grussu F, Fernandez JJS, Simo AC, Sarro NV, Fernandez-Coello A, Bruna J, Cos M, Perez-Lopez R, Majos C. Voxel-level analysis of normalized DSC-PWI time-intensity curves: a potential generalizable approach and its proof of concept in discriminating glioblastoma and metastasis. Eur Radiol. 2022 Feb 1. doi: [10.1007/s00330-021-08498-1](https://doi.org/10.1007/s00330-021-08498-1). Epub ahead of print. PMID: 35103827.
+A Pons-Escoda, A Garcia-Ruiz, P Naval-Baudin, F Grussu, JJS Fernandez, AC Simo, NV Sarro, A Fernandez-Coello, J Bruna, M Cos, R Perez-Lopez, C Majos. Voxel-level analysis of normalized DSC-PWI time-intensity curves: a potential generalizable approach and its proof of concept in discriminating glioblastoma and metastasis. Eur Radiol. 2022 Feb 1. doi: [10.1007/s00330-021-08498-1](https://doi.org/10.1007/s00330-021-08498-1). Epub ahead of print. PMID: 35103827.
 
