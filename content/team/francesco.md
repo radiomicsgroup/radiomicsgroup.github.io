@@ -37,7 +37,7 @@ He releases repositories for image analysis and code/data used in papers:
 
 
 ### Latest articles
-**F Grussu**, K Bernatowicz, I Casanova-Salas, N Castro, P Nuciforo, J Mateo, I Barba, R Perez-Lopez. Diffusion MRI signal cumulants and hepatocyte microstructure at fixed diffusion time: Insights from simulations, 9.4T imaging, and histology. *Magnetic Resonance in Medicine* 2022 (epub ahead of print); doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174).
+**F Grussu**, K Bernatowicz, I Casanova-Salas, N Castro, P Nuciforo, J Mateo, I Barba, R Perez-Lopez. Diffusion MRI signal cumulants and hepatocyte microstructure at fixed diffusion time: Insights from simulations, 9.4T imaging, and histology. *Magnetic Resonance in Medicine* 2022, 88(1): 365-379; doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174).
 
 **F Grussu**, SB Blumberg, M Battiston, LS Kakkar, H Lin, A Ianuș, T Schneider, S Singh, R Bourne, S Punwani, D Atkinson, CAM Gandini Wheeler-Kingshott, E Panagiotaki, T Mertzanidou, DC Alexander. Feasibility of data-driven, model-free quantitative MRI protocol design: application to brain and prostate diffusion-relaxation imaging. *Frontiers in Physics* 2021, 9:752208; doi: [10.3389/fphy.2021.752208](https://doi.org/10.3389/fphy.2021.752208). 
 
