@@ -18,7 +18,7 @@ We are always looking for collaborative and energetic scientists (undergraduate,
 
 ## Open positions
 
-**[OPEN] _3-year PhD studentship in Diffusion MRI and Artificial Intelligence in Oncology_**. **Deadline: June 27th 2022**. More information [here](https://radiomicsgroup.github.io/misc/phdMRI22final.pdf). Apply at [https://desarrollobl.com/vhio-academy](https://desarrollobl.com/vhio-academy)
+There are no open positions at the moment. Watch this space, as we are constantly looking for collaborative and energetic scientists!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <br/> 
 <br/>
@@ -26,6 +26,9 @@ We are always looking for collaborative and energetic scientists (undergraduate,
 
 
 ## Closed positions
+
+
+**[CLOSED] _3-year PhD studentship in Diffusion MRI and Artificial Intelligence in Oncology_**. **Deadline: June 27th 2022**. More information [here](https://radiomicsgroup.github.io/misc/phdMRI22final.pdf). Apply at [https://desarrollobl.com/vhio-academy](https://desarrollobl.com/vhio-academy)
 
 **[CLOSED] [PhD Candidate](https://www.vhio.net/ref-43-2021-phd-student-in-magnetic-resonance-imaging/)** (Deadline: 11/11/2021)
 
