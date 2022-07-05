@@ -27,13 +27,15 @@ Learning a bit more every day about quantitative MRI, he is also analyzing the p
 - Email [![profile](/social/mail.svg)](mailto:alonsogarcia@vhio.net)
 
 ### Relevant publications
-A Pons-Escoda, A Garcia-Ruiz, et al., R Perez-Lopez, C Majos. Voxel-level analysis of normalized DSC-PWI time-intensity curves: a potential generalizable approach and its proof of concept in discriminating glioblastoma and metastasis. Eur Radiol. 2022 Feb 1. doi: [10.1007/s00330-021-08498-1](https://doi.org/10.1007/s00330-021-08498-1). Epub ahead of print. PMID: 35103827.
+A Pons-Escoda, A Garcia-Ruiz, et al., R Perez-Lopez, C Majos. Voxel-level analysis of normalized DSC-PWI time-intensity curves: a potential generalizable approach and its proof of concept in discriminating glioblastoma and metastasis. *European Radiology* 32, 6, 3705-3715 (2022); doi: [10.1007/s00330-021-08498-1](https://doi.org/10.1007/s00330-021-08498-1).
 
 K Bernatowicz, F Grussu, M Ligero, Garcia-Ruiz A et al., R Perez-Lopez. Robust imaging habitat computation using voxel-wise radiomics features. *Scientific Reports* 11, 20133 (2021); doi:[10.1038/s41598-021-99701-2](https://doi.org/10.1038/s41598-021-99701-2).
 
 M Ligero, A Garcia-Ruiz, et al., R Perez-Lopez. A CT-based Radiomics Signature Is Associated with Response to Immune Checkpoint Inhibitors in Advanced Solid Tumors. *Radiology* 299, 1, 109-119 (2021); doi: [10.1148/radiol.2021200928](https://doi.org/10.1148/radiol.2021200928).
 
 A Garcia-Ruiz, P Naval-Baudin, M Ligero, et al., R Perez-Lopez. Precise enhancement quantification in post-operative MRI as an indicator of residual tumor impact is associated with survival in patients with glioblastoma. *Scientific Reports* 11, 1, 695 (2021); doi: [10.1038/s41598-020-79829-3](https://doi.org/10.1038/s41598-020-79829-3).
+
+M Ligero, O Jordi-Ollero, K Bernatowicz, A Garcia-Ruiz, et al., R Perez-Lopez. Minimizing acquisition-related radiomics variability by image resampling and batch effect correction to allow for large-scale data analysis. *European Radiology*. 31, 3, 1460–1470 (2020); doi: [10.1007/s00330-020-07174-0](https://doi.org/10.1007/s00330-020-07174-0)
 
 A Pons-Escoda, A Garcia-Ruiz, et al., R Perez-Lopez, C Majos. Presurgical Identification of Primary Central Nervous System Lymphoma with Normalized Time-Intensity Curve: A Pilot Study of a New Method to Analyze DSC-PWI. *American Journal of Neuroradiology* 41, 10, 1816-1824 (2020); doi: [10.3174/ajnr.a6761](https://doi.org/10.3174/ajnr.a6761).
 
