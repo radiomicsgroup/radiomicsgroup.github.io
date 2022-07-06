@@ -10,4 +10,4 @@ heroSubHeading: 'Undergraduate Student'
 heroBackground: 'team/team2.jpg'
 alumni: false
 ---
-Arnau is a physicist and a biomedical engineering alumni who joined the Radiomics group in 2022. He is focusing his curricular internship on developing a CT-based radiomics signature for the classification of colorectal cancer patients and injuries, framed in the COLOSSUS project.
+Arnau is a physicist and a biomedical engineering student who joined the Radiomics group in 2022. He is focusing his curricular internship on developing a CT-based radiomics signature for the classification of colorectal cancer patients and injuries, framed in the COLOSSUS project.
