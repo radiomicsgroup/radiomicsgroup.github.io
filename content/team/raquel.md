@@ -8,6 +8,7 @@ weight: 1
 heroHeading: 'Raquel Perez-Lopez'
 heroSubHeading: 'Team Leader'
 heroBackground: 'team/team1.jpg'
+alumni: false
 ---
 Raquel Perez-Lopez is the team leader of the Radiomics Group at VHIO, and consultant Radiologist at Vall d'Hebron Hospital, within the Vall d'Hebron Barcelona Hospital Campus. Her work aims to develop novel non-invasive imaging biomarkers in oncology to improve cancer patient care.
 

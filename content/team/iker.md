@@ -8,6 +8,7 @@ weight: 13
 heroHeading: 'Iker Zubieta'
 heroSubHeading: 'Master Student'
 heroBackground: 'team/team2.jpg'
+alumni: true
 ---
 Iker is a mathematician who joined the Radiomics group in 2022. He is focused on studying tumor heterogeneity.
 Iker obtained a BS. in Mathematics from Universidad del País Vasco/ Euskal Herriko Unibertsitatea.                                                                        

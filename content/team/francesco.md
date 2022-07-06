@@ -8,6 +8,7 @@ weight: 3
 heroHeading: 'Francesco Grussu'
 heroSubHeading: 'Senior Postdoctoral Researcher'
 heroBackground: 'team/fgrussu_artwork.png'
+alumni: false
 ---
 
 Francesco joined VHIO in 2020. His research aims to develop novel Magnetic Resonance Imaging (MRI) techniques for liver microstructure measurement, potentially useful in oncology. He is also involved in designing MRI acquisition and analysis pipelines in the clinical studies of the Radiomics Group.

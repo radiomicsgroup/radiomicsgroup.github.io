@@ -8,6 +8,7 @@ weight: 7
 heroHeading: 'Carlos Macarro'
 heroSubHeading: 'Research Assistant'
 heroBackground: 'team/team2.jpg'
+alumni: false
 ---
 
 Carlos is a biomedical engineer who joined the Radiomics group in 2022. His main focus is on MRI image processing and analysis to identify new imaging biomarkers of tumoral senescence.                                                                                                                  

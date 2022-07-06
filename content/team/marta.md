@@ -8,6 +8,7 @@ weight: 6
 heroHeading: 'Marta Ligero'
 heroSubHeading: 'Predoctoral Researcher'
 heroBackground: 'team/team2.jpg'
+alumni: false
 ---
 Marta is a biomedical engineer who joined the Radiomics group in 2018. She's focused on the implementation of artificial intelligence for developing CT-based radiomics biomarkers of response to immunotherapy. She also has research interest in radiomics variability and biological translation.
 

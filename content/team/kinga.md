@@ -8,6 +8,7 @@ weight: 2
 heroHeading: 'Kinga Bernatowicz'
 heroSubHeading: 'Senior Postdoctoral Researcher'
 heroBackground: 'team/kinga_back.jpg'
+alumni: false
 ---
 Driven by scientific curiosity, Kinga has gained a broad range of expertise in engineering, medical physics and environmental science. She joined VHIO in November 2019 and has focused on investigating tumor heterogeneity and integrating multi-omics data in predictive models for immunotherapy.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

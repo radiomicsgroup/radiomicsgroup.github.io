@@ -8,6 +8,7 @@ weight: 7
 heroHeading: 'Camilo Monreal'
 heroSubHeading: 'Computer Scientist'
 heroBackground: 'team/camilo_back.jpg'
+alumni: false
 ---
 
 Camilo is a Computer Scientist with a Master in Logic and AI who
