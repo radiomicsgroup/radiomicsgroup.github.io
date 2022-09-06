@@ -8,6 +8,6 @@ weight: 13
 heroHeading: 'Júlia Ibañez Massa'
 heroSubHeading: 'Undergraduate student'
 heroBackground: 'team/team2.jpg'
-alumni: false
+alumni: true
 ---
 Júlia is a biomedical engineering student who joined the Radiomics group in 2022. She was granted with a BBVA Summer Internship to develop a CT-based signature to classify colorectal cancer patients into further subtypes in the framework of the EU-funded COLOSSUS project.
