@@ -6,7 +6,7 @@ featured: true
 draft: false
 weight: 7
 heroHeading: 'Nikolaos Staikoglou'
-heroSubHeading: 'Research Assistant'
+heroSubHeading: 'MSc student'
 heroBackground: 'team/team2.jpg'
 alumni: false
 ---
