@@ -11,8 +11,9 @@ heroBackground: 'team/team2.jpg'
 alumni: false
 ---
 
-Bente joined the Radiomics Group in September 2022 for her master thesis. She studies biomedical engineering at the technical university of Delft, the Netherlands. Bente obtained a BS. in Biomedical Physics and Technology from Vrije Universiteit Amsterdam (2019).                                   <br/>                                                                                  
-                                                     <br/>  <br/>                                                                                                                                                         
+Bente joined the Radiomics Group in September 2022 for her master thesis. She studies biomedical engineering at the technical university of Delft, the Netherlands. Bente obtained a BS. in Biomedical Physics and Technology from Vrije Universiteit Amsterdam. (2019).                                                                                                                           
+             <br/>   
+<br/>                    <br/>   
 
 Her thesis at VHIO will be focused on CT imaging for predicting response to immunotherapy. We will aim to develop a tool for more accurate response evaluation to Immune Checkpoint Inhibtors.
 
