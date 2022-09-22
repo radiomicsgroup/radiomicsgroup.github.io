@@ -18,5 +18,6 @@ The focus of her thesis is on estimating histological properties of tumours, bas
 
 ### Contact and links
 
-- Email [![profile](/social/mail.svg)](mailto:ellafokkinga@vhio.net)
+- Email [![profile](/social/mail.svg)](mailto:ellafokkinga@vhio.net) 
+- LinkedIn [![profile](/social/linkedin.svg)](https://www.linkedin.com/in/ellafokkinga/)
 
