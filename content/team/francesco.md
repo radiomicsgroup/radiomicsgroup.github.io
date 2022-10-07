@@ -48,7 +48,7 @@ J Cohen-Adad, ..., **F Grussu**, et al. Generic acquisition protocol for quantit
 
 
 ### Recent grants and awards
-**La Caixa Foundation**, [2022 Junior Leader Retaining fellowship](https://fundacionlacaixa.org/es/becas-posdoctorado-junior-leader-retaining): "New-generation oncological MRI (New-OncoMRI): development, validation and application". Role: principal investigator (fellow). Duration: 09/2022-09/2025.
+**"la Caixa" Foundation**, [2022 Junior Leader Retaining fellowship](https://fundacionlacaixa.org/es/becas-posdoctorado-junior-leader-retaining): "New-generation oncological MRI (New-OncoMRI): development, validation and application". Role: principal investigator (fellow). Duration: 09/2022-09/2025.
 
 **Agència de Gestió d’Ajuts Universitaris i de Recerca**, [2020 Beatriu de Pinós post-doctoral fellowship](https://agaur.gencat.cat/en/Beatriu-de-Pinos/el-programa/index.html): "Advancing Magnetic Resonance Imaging against liver cancer". Role: principal investigator (fellow). Duration: 01/2022-12/2024. Renounced on 29/09/2021 due to incompatibility with a "la Caixa" Junior Leader Fellowship.
 
