@@ -6,7 +6,7 @@ featured: true
 draft: false
 weight: 7
 heroHeading: 'Athanasios Grigoriou'
-heroSubHeading: 'MSc student'
+heroSubHeading: 'PhD student'
 heroBackground: 'team/team2.jpg'
 alumni: false
 ---
