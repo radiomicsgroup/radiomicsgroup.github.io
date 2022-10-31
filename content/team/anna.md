@@ -6,7 +6,7 @@ featured: true
 draft: false
 weight: 7
 heroHeading: 'Anna Voronova'
-heroSubHeading: 'PhD student'
+heroSubHeading: 'Predoctoral Researcher'
 heroBackground: 'team/team2.jpg'
 alumni: false
 ---
