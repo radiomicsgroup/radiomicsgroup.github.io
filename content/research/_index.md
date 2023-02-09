@@ -30,7 +30,9 @@ Below you can find a list of projects that involve members of the Radiomics Grou
 
 
 ### Personal grants and fellowships
-**2020 Beatriu de Pinós post-doctoral fellowship**. "Advancing Magnetic Resonance Imaging against liver cancer". Fellow: Francesco Grussu. Duration: 01/2022-12/2024.
+**2022 "la Caixa" Foundation Junior Leader Fellowship (Retaining)**. "New-generation oncological MRI (New-OncoMRI): development, validation and application". Fellow: Francesco Grussu. Duration: 09/2022-09/2025.
+
+**2020 Beatriu de Pinós post-doctoral fellowship**. "Advancing Magnetic Resonance Imaging against liver cancer". Fellow: Francesco Grussu. Duration: 01/2022-12/2024 (terminated on 09/2022).
 
 **2021 INPhINIT La Caixa Retaining Pre-doctoral fellowship**. PhD in Biomedical Engineering (Universitat Politècnica de Catalunya). Fellow: Olivia Prior. Duration: 12/2021-12/2024.
 
