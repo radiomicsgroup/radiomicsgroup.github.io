@@ -1,11 +1,11 @@
 ---
-title: 'Humaira'
+title: 'Humaira Abdul Ghafoor'
 date: 2018-11-28T15:14:39+10:00
 icon: 'team/user.png'
 featured: true
 draft: false
 weight: 7
-heroHeading: 'Humaira'
+heroHeading: 'Humaira Abdul Ghafoor'
 heroSubHeading: 'Predoctoral Researcher'
 heroBackground: 'team/team2.jpg'
 alumni: false
