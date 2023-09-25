@@ -9,7 +9,7 @@ weight: 7
 heroHeading: 'Ella Fokkinga'
 heroSubHeading: 'MSc student'
 heroBackground: 'team/team2.jpg'
-alumni: false
+alumni: true
 ---
 
 Ella is a Biomedical Engineering student at the Delft University of Technology. She has joined the Radiomics group in September 2022, to do her master thesis here. In 2019, she obtained a BSc in Clinical Technology, also at TU Delft.

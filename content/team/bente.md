@@ -8,7 +8,7 @@ weight: 7
 heroHeading: 'Bente Gielen'
 heroSubHeading: 'MSc student'
 heroBackground: 'team/team2.jpg'
-alumni: false
+alumni: true
 ---
 
 Bente joined the Radiomics Group in September 2022 for her master thesis. She studies biomedical engineering at the technical university of Delft, the Netherlands. Bente obtained a BS. in Biomedical Physics and Technology from Vrije Universiteit Amsterdam. (2019).                                                                                                                           
