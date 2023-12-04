@@ -4,7 +4,7 @@ date: 2018-11-28 15:15:26 +1000
 icon: 'publications/pub10.png'
 featured: true
 weight: 2
-year: 2023
+year: 2022
 draft: false
 paperurl: 'https://doi.org/10.1002/jmri.29144'
 ---
