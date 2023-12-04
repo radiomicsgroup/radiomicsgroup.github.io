@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Diffusion-Weighted MRI for Cancer Microstructure Assessment in Body Imaging, and Its Relationship With Histology'
-date: 2023-12-04 11:08:00 +1000
+date: 2018-11-28 15:15:26 +1000
 icon: 'publications/pub10.png'
 featured: true
 weight: 2
