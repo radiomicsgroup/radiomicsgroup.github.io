@@ -15,9 +15,9 @@ Daniel joined the group in November 2023 after finishing an MSc in bioinformatic
 
 ### Adademic Formation
 
-**2017 - 2021** BSc Biomedical engineering, Universidad Carlos III de Madrid
+- **2017 - 2021** BSc Biomedical engineering, Universidad Carlos III de Madrid
 
-**2021 - 2023** MSc Bioinformatics and Systems biology, Vrije University of Amsterdam
+- **2021 - 2023** MSc Bioinformatics and Systems biology, Vrije University of Amsterdam
 
 
 ### Contact and links
