@@ -11,7 +11,7 @@ heroBackground: 'team/camilo_back.jpg'
 alumni: false
 ---
 
-Daniel joined the group in November 2023 after finishing an MSc in bioinformatics at Vrije University of Amsterdam and being intern for one year at The Netherlands Cancer Institue. His main project involves the integration of multimodal data for the prediction of immunotherapy response suing deep learning. He is also involved in other projects such as the use of Federated Learning for inter-institutional collaborative healthcare. 
+Daniel joined the group in November 2023 after finishing an MSc in bioinformatics at Vrije University of Amsterdam and being intern for one year at The Netherlands Cancer Institue. His main project involves the integration of multimodal data for the prediction of immunotherapy response using deep learning. He is also involved in other projects such as the use of Federated Learning for inter-institutional collaborative healthcare. 
 
 ### Adademic Formation
 
