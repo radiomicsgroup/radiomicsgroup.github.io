@@ -16,13 +16,10 @@ Daniel joined the group in November 2023 after finishing an MSc in bioinformatic
 ### Adademic Formation
 
 **2017 - 2021** BSc Biomedical engineering, Universidad Carlos III de Madrid
+
 **2021 - 2023** MSc Bioinformatics and Systems biology, Vrije University of Amsterdam
 
 
 ### Contact and links
 - Email [![profile](/social/mail.svg)](mailto:danielnavarro@vhio.net)
 - LinkedIn [![profile](/social/linkedin.svg)](http://linkedin.com/in/daniel-navarro-garc%C3%ADa)
-
-
-
-
