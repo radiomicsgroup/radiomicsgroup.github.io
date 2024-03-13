@@ -8,7 +8,7 @@ weight: 5
 heroHeading: 'Caterina Tozzi'
 heroSubHeading: 'Postdoctoral Researcher'
 heroBackground: 'team/team2.jpg'
-alumni: false
+alumni: true
 ---
 
 After receiving a doctorate in applied mathematics, Caterina joined the Radiomics group in 2022. So far, her work based on mathematical and computational modelling in the study of biomedical systems. Now her research aims to integrate advanced imaging analysis with 3D molecular characterization.
