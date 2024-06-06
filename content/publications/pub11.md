@@ -9,4 +9,4 @@ draft: false
 paperurl: 'https://doi.org/10.1016/j.xcrm.2024.101464'
 ---
 
-Alonso Garcia-Ruiz, Albert Pons-Escoda, Francesco Grussu, Pablo Naval-Baudin, Camilo Monreal-Aguero, Gretchen Hermann, Roshan Karunamuni, Marta Ligero, Antonio Lopez-Rueda, Laura Oleaga, Alvaro Berbis, Teodoro Martin-Noguerol, Antonio Luna-Alcalá, Tyler M. Seibert, Carlos Majos, Raquel Perez-Lopez. An accessible deep learning tool for voxel-wise classification of brain malignancies from perfusion MRI. *Cell Reports Medicine* (2024); doi: [10.1016/j.xcrm.2024.101464](https://doi.org/10.1016/j.xcrm.2024.101464).
+A Garcia-Ruiz, A Pons-Escoda, F Grussu, P Naval-Baudin, C Monreal-Aguero, G Hermann, R Karunamuni, M Ligero, A Lopez-Rueda, L Oleaga, A Berbis, T Martin-Noguerol, A Luna-Alcalá, T M. Seibert, C Majos, R Perez-Lopez. An accessible deep learning tool for voxel-wise classification of brain malignancies from perfusion MRI. *Cell Reports Medicine* (2024); doi: [10.1016/j.xcrm.2024.101464](https://doi.org/10.1016/j.xcrm.2024.101464).
