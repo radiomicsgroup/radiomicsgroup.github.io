@@ -1,6 +1,6 @@
 ---
 title: 'Whole-body magnetic resonance imaging as a treatment response biomarker in castration resistant prostate cancer with bone metastases: iPROMET clinical trial'
-date: 2018-11-28 15:15:26 +1000
+date: 2024-01-28T15:15:26+10:00
 icon: 'publications/pub12.png'
 featured: true
 weight: 2
