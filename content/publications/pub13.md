@@ -3,10 +3,10 @@ title: 'Enhancing Tumor Microstructural Quantification With Machine Learning and
 date: 2018-11-28 15:15:26 +1000
 icon: 'publications/pub13.png'
 featured: true
-weight: 2
+weight: 1
 year: 2024
 draft: false
 paperurl: 'https://doi.org/10.1002/jmri.29484'
 ---
 
-C Macarro, K Bernatowicz, A Garcia-Ruiz,, ..., R Perez-Lopez, F Grussu. Enhancing Tumor Microstructural Quantification With Machine Learning and Diffusion-Relaxation MRI. *Journal of Magnetic Resonance Imaging* (2024); doi: [10.1002/jmri.29484](https://doi.org/10.1002/jmri.29484).
+C Macarro, K Bernatowicz, A Garcia-Ruiz, ..., R Perez-Lopez, F Grussu. Enhancing Tumor Microstructural Quantification With Machine Learning and Diffusion-Relaxation MRI. *Journal of Magnetic Resonance Imaging* (2024); doi: [10.1002/jmri.29484](https://doi.org/10.1002/jmri.29484).
