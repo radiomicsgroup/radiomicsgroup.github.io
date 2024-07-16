@@ -1,7 +1,7 @@
 ---
 title: 'PET-based radiomics signature can predict durable responses to CAR T-cell therapy in patients with large B-cell lymphoma'
 date: 2023-11-17T15:15:26+10:00
-icon: 'publications/pub16.'
+icon: 'publications/pub16.jpg'
 featured: true
 weight: 2
 year: 2023
