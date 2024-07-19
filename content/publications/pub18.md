@@ -1,7 +1,7 @@
 ---
 title: 'Identification of precise 3D CT Radiomics for habitat computation by machine learning in cancer'
 date: 2024-03-15T15:15:26+10:00
-icon: 'publications/pub18.jpg'
+icon: 'publications/pub18.jpeg'
 featured: true
 weight: 2
 year: 2024
