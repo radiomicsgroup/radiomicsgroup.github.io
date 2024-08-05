@@ -12,6 +12,7 @@ destination = "docs"
     
 [params]
   google_analytics_id=""
+  favicon="favicon.ico"
 
   [params.homepage_meta_tags]
     meta_description = "Radiomics Group: quantitative imaging biomarkers for precision medicine to improve cancer patient care."
