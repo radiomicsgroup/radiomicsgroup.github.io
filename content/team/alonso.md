@@ -6,7 +6,7 @@ featured: true
 draft: false
 weight: 6
 heroHeading: 'Alonso Garcia-Ruiz'
-heroSubHeading: 'Predoctoral Researcher'
+heroSubHeading: 'Postdoctoral Researcher'
 alumni: false
 ---
 
