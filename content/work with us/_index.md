@@ -18,9 +18,8 @@ We are always looking for collaborative and energetic scientists (undergraduate,
 
 ## Open positions
 
-**[Postdoctoral Researcher in AI for medical imaging](https://vhio.net/2024/04/12/ref-2024-028-01-post-doctoral-researcher-in-ai-in-medical-imaging-for-the-radiomics-group/)**. Open position until filled.
-
-To apply, please send an email including your CV and letter of intent to [rperez@vhio.net](mailto:rperez@vhio.net).
+There are currently no open positions.
+But feel free to contact us! We are always eager to incorporate new passionate researchers!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <br/> 
 <br/>
@@ -28,6 +27,7 @@ To apply, please send an email including your CV and letter of intent to [rperez
 
 ## Closed positions
 
+**[CLOSED] [_Postdoctoral Researcher in AI for medical imaging_](https://vhio.net/2024/04/12/ref-2024-028-01-post-doctoral-researcher-in-ai-in-medical-imaging-for-the-radiomics-group/)**.
 
 **[CLOSED] _3-year PhD studentship in Diffusion MRI and Artificial Intelligence in Oncology_**. **Deadline: June 27th 2022**. More information [here](https://radiomicsgroup.github.io/misc/phdMRI22final.pdf). Apply at [https://desarrollobl.com/vhio-academy](https://desarrollobl.com/vhio-academy)
 
