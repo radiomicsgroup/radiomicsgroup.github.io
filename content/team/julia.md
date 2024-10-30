@@ -6,7 +6,7 @@ featured: true
 draft: false
 weight: 13
 heroHeading: 'Júlia Ibañez Massa'
-heroSubHeading: 'Undergraduate student'
+heroSubHeading: 'Undergraduate Student'
 heroBackground: 'team/team2.jpg'
 alumni: true
 ---

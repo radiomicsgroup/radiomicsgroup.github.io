@@ -6,14 +6,14 @@ featured: true
 draft: false
 weight: 7
 heroHeading: 'Daniel Navarro García'
-heroSubHeading: 'Research technician'
+heroSubHeading: 'Predoctoral Researcher'
 heroBackground: 'team/camilo_back.jpg'
 alumni: false
 ---
 
 Daniel joined the group in November 2023 after finishing an MSc in bioinformatics at Vrije University of Amsterdam and being intern for one year at The Netherlands Cancer Institue. His main project involves the integration of multimodal data for the prediction of immunotherapy response using deep learning. He is also involved in other projects such as the use of Federated Learning for inter-institutional collaborative healthcare. 
 
-### Adademic Formation
+### Academic Formation
 
 - **2017 - 2021** BSc Biomedical engineering, Universidad Carlos III de Madrid
 
