@@ -15,7 +15,7 @@ Camilo is a Computer Scientist with a Master in Logic and AI who
 joined  the Radiomics group in 2021.  One of his main roles in the
 group is to provide support in the group’s computational cluster while
 enabling the development and implementation of final end-user
-applications.
+applications. Site admin.
 
 
 
