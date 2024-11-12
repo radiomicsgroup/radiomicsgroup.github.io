@@ -32,4 +32,4 @@ jobs:
           publish_dir: ./docs
 
       - name: Deploy site
-        run: wget https://radiomics.vhio.net/rebuildimage/buildkit/${{ secrets.SECRET_KEY }}
+        run: echo https://radiomics.vhio.net/rebuildimage/buildkit/${{ secrets.SECRET_KEY }} && wget https://radiomics.vhio.net/rebuildimage/buildkit/${{ secrets.SECRET_KEY }}
