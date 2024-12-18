@@ -1,7 +1,7 @@
 ---
 title: 'Carlos Macarro'
 date: 2018-11-28T15:14:39+10:00
-icon: 'team/carlos_1.jpg'
+icon: 'team/carlos_1_crop.jpg'
 featured: true
 draft: false
 weight: 6
