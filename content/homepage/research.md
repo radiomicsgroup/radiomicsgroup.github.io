@@ -1,7 +1,7 @@
 ---
 title: 'Our Group'
 weight: 1
-background: 'team/radiomics_team_2023.jpeg'
+background: 'team/Web/group.jpg'
 featured: true
 draft: false
 button: 'team'
