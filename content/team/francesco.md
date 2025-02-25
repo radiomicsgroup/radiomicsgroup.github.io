@@ -1,7 +1,7 @@
 ---
 title: 'Francesco Grussu'
 date: 2018-11-18T12:33:46+10:00
-icon: 'team/Web/francesco_1_crop.png'
+icon: 'team/Web/francesco_1_crop.jpg'
 draft: false
 featured: true
 weight: 2
@@ -12,6 +12,7 @@ alumni: false
 ---
 
 Francesco joined VHIO in 2020. His research aims to develop novel Magnetic Resonance Imaging (MRI) techniques for liver microstructure measurement, potentially useful in oncology. He is also involved in designing MRI acquisition and analysis pipelines in the clinical studies of the Radiomics Group.
+                                                     <br/>
 
 ### Scientific trajectory
 Francesco is a biomedical engineer specialised in computational MRI, with almost 12 years of experience in MRI research. He graduated from the [University of Cagliari](https://www.unica.it/unica/en/homepage.page) (BEng Biomedical engineering, 2009) and [University of Genoa](https://unige.it/en) (MEng Bioengineering, 2012), Italy. He then obtained a PhD from [University College London](https://www.ucl.ac.uk/) (UCL, UK) in Magnetic Resonance Physics (2016). He worked as a post-doc at UCL from 2016 to 2020, where he investigated new ways of acquiring and analysing spinal cord diffusion MRI scans in multiple sclerosis. During his post-doc at UCL, he visited [New York University](https://med.nyu.edu/departments-institutes/radiology) (NY, USA) in 2017 (Sept-Nov), and was elected Trainee representative (2018-2020) of the [International Society for Magnetic Resonance in Medicine](https://www.ismrm.org/) (ISMRM) White Matter Study Group. From October 2020 he has been a post-doctoral researcher at the [Vall d'Hebron Institute of Oncology](https://www.vhio.net/), where he works on whole-body and abdominal MRI for precision medicine in oncology. In September 2021 he was awarded a [Beatriu de Pinós](https://agaur.gencat.cat/en/Beatriu-de-Pinos) Fellowship, and from September 2022 he is a ["la Caixa" Foundation Junior Leader](https://fundacionlacaixa.org/en/postdoctoral-fellowships-junior-leader-retaining) Fellow, working to develop next-generation diffusion MRI techniques to fight cancer. 
