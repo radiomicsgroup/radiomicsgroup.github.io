@@ -1,24 +1,17 @@
 ---
 title: 'Olivia Prior Palomares'
 date: 2018-11-28T15:14:54+10:00
-icon: 'team/olivia_small.jpg'
+icon: 'team/Web/olivia_1_crop.jpg'
 featured: true
 draft: false
-weight: 6
+weight: 5
 heroHeading: 'Olivia Prior Palomares'
 heroSubHeading: 'Predoctoral Researcher'
 heroBackground: 'team/olivia_bckg.jpg'
 alumni: false
 ---
 
-Olivia is a biomedical engineer who joined VHIO in 2021. Her research is focused on new imaging biomarkers identification and intratumor/microenvironment heterogeneity exploration.        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <br/>                                                                               
-
-                                                            
-                                                   
-                                               
-                                              
-
-                                                                                                                         
+Olivia is a biomedical engineer who joined VHIO in 2021. Her research is focused on new imaging biomarkers identification and intratumor/microenvironment heterogeneity exploration.                                                                          
 
 ### Scientific trajectory
 Olivia obtained a BS. in Biomedical Engineering from Universitat de Barcelona (2018). As part of her final degree project, she worked at the International Centre for Numeric Methods at Universitat Politècnica de Catalunya under the supervision of Dr. Eduardo Soudah, where she contributed to the development of an augmented reality system for oncological surgeries. Moving forward, she studied a Master of Translational Medicine at University of California - Berkeley with the help of a Fulbright Scholarship. As a masters student, she worked at the Sarwal Lab at University of California - San Francisco and Dr. Sarwal's spinoff, NephroSant. There, her research focused on developing a point-of-care device to detect kidney stone disease. As a predoctoral researcher at VHIO, Olivia studies new machine learning methods to unravel tumor heterogeneity with the goal of improving tumor characterization under the supervision of Dr. Raquel Pérez-López and Dr. Kinga Bernatowicz.

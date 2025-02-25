@@ -1,7 +1,7 @@
 ---
 title: 'Raquel Perez-Lopez'
 date: 2018-11-18T12:33:46+10:00
-icon: 'team/raquel_small.jpg'
+icon: 'team/Web/raquel_1_crop.jpg'
 draft: false
 featured: true
 weight: 1

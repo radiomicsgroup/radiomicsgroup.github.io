@@ -1,10 +1,10 @@
 ---
 title: 'Francesco Grussu'
 date: 2018-11-18T12:33:46+10:00
-icon: 'team/fgrussuavatar.png'
+icon: 'team/Web/francesco_1_crop.png'
 draft: false
 featured: true
-weight: 3
+weight: 2
 heroHeading: 'Francesco Grussu'
 heroSubHeading: 'Senior Postdoctoral Researcher'
 heroBackground: 'team/fgrussu_artwork.png'

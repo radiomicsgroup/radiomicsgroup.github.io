@@ -1,10 +1,10 @@
 ---
 title: 'Anna Voronova'
 date: 2018-11-28T15:14:39+10:00
-icon: 'team/user.png'
+icon: 'team/Web/anna_1_crop.jpg'
 featured: true
 draft: false
-weight: 7
+weight: 11
 heroHeading: 'Anna Voronova'
 heroSubHeading: 'Predoctoral Researcher'
 heroBackground: 'team/team2.jpg'

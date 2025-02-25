@@ -1,10 +1,10 @@
 ---
 title: 'Alonso Garcia-Ruiz'
 date: 2018-11-28T15:15:26+10:00
-icon: 'team/alonso_medium.jpg'
+icon: 'team/Web/alonso_1_crop.jpg'
 featured: true
 draft: false
-weight: 6
+weight: 3
 heroHeading: 'Alonso Garcia-Ruiz'
 heroSubHeading: 'Postdoctoral Researcher'
 alumni: false
@@ -12,7 +12,6 @@ alumni: false
 
 
 Alonso is a biomedical engineer and has been member of the Radiomics team since 2018. He is currently pursuing his PhD, working on whole-body diffusion MRI as a biomarker of bone metastases, and on brain perfusion MRI for tumour characterization.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Scientific trajectory 
 In 2014, he obtained his B.Sc. at [Universidad Carlos III de Madrid](https://www.uc3m.es) and his M.Sc. at [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/) in 2017, focusing on image processing, but also glancing at medical image acquisition, computer vision and machine learning within the healthcare context.

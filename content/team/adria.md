@@ -1,10 +1,10 @@
 ---
 title: 'Adrià Marcos'
 date: 2018-11-28T15:14:39+10:00
-icon: 'team/adria.jpg'
+icon: 'team/Web/adrià_1_crop.jpg'
 featured: true
 draft: false
-weight: 7
+weight: 13
 heroHeading: 'Adrià Marcos'
 heroSubHeading: 'Data Science Engineer'
 heroBackground: 'team/camilo_back.jpg'

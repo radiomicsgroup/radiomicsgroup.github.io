@@ -1,10 +1,10 @@
 ---
 title: 'Daniel Navarro García'
 date: 2018-11-28T15:14:39+10:00
-icon: 'team/daniel.JPG'
+icon: 'team/Web/daniel_1_crop.jpg'
 featured: true
 draft: false
-weight: 7
+weight: 8
 heroHeading: 'Daniel Navarro García'
 heroSubHeading: 'Predoctoral Researcher'
 heroBackground: 'team/camilo_back.jpg'
