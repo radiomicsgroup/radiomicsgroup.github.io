@@ -5,12 +5,13 @@
 {{ define "main" }}
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
  
+{{ $v2025 :=  where .Pages "Params.year" 2025  | group "2025" }}
 {{ $v2024 :=  where .Pages "Params.year" 2024  | group "2024" }}
 {{ $v2023 :=  where .Pages "Params.year" 2023  | group "2023" }}
 {{ $v2022 :=  where .Pages "Params.year" 2022  | group "2022" }}
 {{ $v2021 :=  where .Pages "Params.year" 2021  | group "2021" }}
 {{ $v2020 :=  where .Pages "Params.year" 2020 | group "2020" }}
-{{ $groups := slice   $v2024 $v2023 $v2022 $v2021 $v2020 }}
+{{ $groups := slice   $v2025 $v2024 $v2023 $v2022 $v2021 $v2020 }}
 {{ if .Content }}
 <div class="container pt-6 pt-md-10">
   <div class="row">
