@@ -11,7 +11,7 @@ alumni: false
 ---
 
 
-Alonso is a biomedical engineer and has been member of the Radiomics team since 2018. He is currently pursuing his PhD, working on whole-body diffusion MRI as a biomarker of bone metastases, and on brain perfusion MRI for tumour characterization.
+Alonso is a biomedical engineer and has been member of the Radiomics team since 2018. He is currently pursuing his PhD, working on whole-body diffusion MRI as a biomarker of bone metastases, and on brain perfusion MRI for tumour characterization.                                                                                                                  
                                                      <br/>
 
 ### Scientific trajectory 

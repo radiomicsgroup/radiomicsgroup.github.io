@@ -11,7 +11,7 @@ heroBackground: 'team/team2.jpg'
 alumni: false
 ---
 
-Maria is a biomedical engineer who joined the Radiomics group in 2021. Her research is focused on the development of automatic segmentation tools that can help for volumetric disease assessment.
+Maria is a biomedical engineer who joined the Radiomics group in 2021. Her research is focused on the development of automatic segmentation tools that can help for volumetric disease assessment.                                                                                                                                                      
                                                      <br/>
 
 ### Scientific trajectory

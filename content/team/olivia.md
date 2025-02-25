@@ -11,7 +11,7 @@ heroBackground: 'team/olivia_bckg.jpg'
 alumni: false
 ---
 
-Olivia is a biomedical engineer who joined VHIO in 2021. Her research is focused on new imaging biomarkers identification and intratumor/microenvironment heterogeneity exploration.                                                                          
+Olivia is a biomedical engineer who joined VHIO in 2021. Her research is focused on new imaging biomarkers identification and intratumor/microenvironment heterogeneity exploration.                                                                                                                               
                                                      <br/>
 
 ### Scientific trajectory
