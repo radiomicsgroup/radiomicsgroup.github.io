@@ -14,7 +14,8 @@ alumni: false
 Nikolaos (Nikos) is a Medical Doctor with training in Radiology. His 
 research in VHIO is focused on identifying CT radiomics signatures in 
 patients with Hepatocellular Carcinoma, treated with immunotherapy 
-agents.                                                                                                           
+agents.                                                                                                                                                        
+                                                     <br/>
 
 Nikos (he/him) obtained his medical degree from Aristotle University of Thessaloniki, GR (2017) and continued his four–year training in Diagnostic 
 & Interventional Radiology at AHEPA University Hospital of Thessaloniki (2018-2021). 
