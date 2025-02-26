@@ -6,7 +6,7 @@ draft: false
 featured: true
 weight: 2
 heroHeading: 'Francesco Grussu'
-heroSubHeading: 'Senior Postdoctoral Researcher'
+heroSubHeading: 'Senior Investigator'
 heroBackground: 'team/fgrussu_artwork.png'
 alumni: false
 ---
@@ -15,7 +15,7 @@ Francesco joined VHIO in 2020. His research aims to develop novel Magnetic Reson
                                                      <br/>
 
 ### Scientific trajectory
-Francesco is a biomedical engineer specialised in computational MRI, with almost 12 years of experience in MRI research. He graduated from the [University of Cagliari](https://www.unica.it/unica/en/homepage.page) (BEng Biomedical engineering, 2009) and [University of Genoa](https://unige.it/en) (MEng Bioengineering, 2012), Italy. He then obtained a PhD from [University College London](https://www.ucl.ac.uk/) (UCL, UK) in Magnetic Resonance Physics (2016). He worked as a post-doc at UCL from 2016 to 2020, where he investigated new ways of acquiring and analysing spinal cord diffusion MRI scans in multiple sclerosis. During his post-doc at UCL, he visited [New York University](https://med.nyu.edu/departments-institutes/radiology) (NY, USA) in 2017 (Sept-Nov), and was elected Trainee representative (2018-2020) of the [International Society for Magnetic Resonance in Medicine](https://www.ismrm.org/) (ISMRM) White Matter Study Group. From October 2020 he has been a post-doctoral researcher at the [Vall d'Hebron Institute of Oncology](https://www.vhio.net/), where he works on whole-body and abdominal MRI for precision medicine in oncology. In September 2021 he was awarded a [Beatriu de Pinós](https://agaur.gencat.cat/en/Beatriu-de-Pinos) Fellowship, and from September 2022 he is a ["la Caixa" Foundation Junior Leader](https://fundacionlacaixa.org/en/postdoctoral-fellowships-junior-leader-retaining) Fellow, working to develop next-generation diffusion MRI techniques to fight cancer. 
+Francesco is a biomedical engineer specialised in computational MRI, with almost 12 years of experience in MRI research. He graduated from the [University of Cagliari](https://www.unica.it/unica/en/homepage.page) (BEng Biomedical engineering, 2009) and [University of Genoa](https://unige.it/en) (MEng Bioengineering, 2012), Italy. He then obtained a PhD from [University College London](https://www.ucl.ac.uk/) (UCL, UK) in Magnetic Resonance Physics (2016). He worked as a post-doc at UCL from 2016 to 2020, where he investigated new ways of acquiring and analysing spinal cord diffusion MRI scans in multiple sclerosis. During his post-doc at UCL, he visited [New York University](https://med.nyu.edu/departments-institutes/radiology) (NY, USA) in 2017 (Sept-Nov), and was elected Trainee representative (2018-2020) of the [International Society for Magnetic Resonance in Medicine](https://www.ismrm.org/) (ISMRM) White Matter Study Group. From October 2020 he has been a post-doctoral researcher at the [Vall d'Hebron Institute of Oncology](https://www.vhio.net/), where he works on whole-body and abdominal MRI for precision medicine in oncology. In September 2021 he was awarded a [Beatriu de Pinós](https://agaur.gencat.cat/en/Beatriu-de-Pinos) Fellowship, and from September 2022 he is a ["la Caixa" Foundation Junior Leader](https://fundacionlacaixa.org/en/postdoctoral-fellowships-junior-leader-retaining) Fellow, working to develop next-generation diffusion MRI techniques to fight cancer. From January 1st 2025, he was promoted to the role of Senior Investigator within the group.
 
 
 ### Contact and links
@@ -23,29 +23,30 @@ Francesco is a biomedical engineer specialised in computational MRI, with almost
 - Google Scholar [![profile](/social/google-scholar.svg)](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao)
 - PhD thesis [![profile](/social/thesis-64.png)](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)
 - LinkedIn [![profile](/social/linkedin.svg)](http://linkedin.com/in/francesco-grussu-9a289775)
-- Twitter [![profile](/social/twitter.svg)](https://twitter.com/fragrussu)
+- X (former twitter) [![profile](/social/twitter.svg)](https://twitter.com/fragrussu)
 - ORCID [![profile](/social/orcid.svg)](https://orcid.org/0000-0002-0945-3909) 
 - Email [![profile](/social/mail.svg)](mailto:fgrussu@vhio.net)  
 - CV [![profile](/social/cv-64.png)](http://fragrussu.github.io/cvfg.pdf)
 
 
 ### Open Science
-He releases repositories for image analysis and code/data used in papers:
+He contributes to the release of repositories for image analysis of research data used in papers, as for example:
 * [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
-* [SARDU-Net](https://github.com/fragrussu/sardunet), for data-driven quantitative MRI protocol design;
 * [qMRINet](https://github.com/fragrussu/qMRINet), for deep learning MRI model fitting;
-* [MRItools](https://github.com/fragrussu/MRItools), providing a collection of tools useful in MRI research;
-* [MChepato](https://github.com/fragrussu/MChepato), code/data of Grussu et al, MRM 2022 (doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174)).
+* [BodyMRItools](https://github.com/fragrussu/bodymritools), for body diffusion MR image (dMRI) processing;
+* [SpinFlowSim](https://github.com/radiomicsgroup/spinflowsim), for dMRI microvascular cancer property mapping informed by blood flow (led by [Anna Voronova](https://radiomics.vhio.net/team/anna));
+* [MChepato](https://github.com/fragrussu/MChepato), code/data of Grussu et al, Magn Res Med 2022 (doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174));
+* [Histo-μSim](https://doi.org/10.5281/zenodo.14559356), data used to develop the _Histo-μSim_ dMRI technique for non-invasive cancer cell profiling (led by [Athanasios Grigoriou](https://radiomics.vhio.net/team/thanos));
 
 
 ### Latest articles
-E Fokkinga, J A Hernandez-Tamames, A Ianus, M Nilsson, C M W Tax, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Advanced Diffusion-Weighted MRI for Cancer Microstructure Assessment in Body Imaging, and Its Relationship With Histology. *Journal of Magnetic Resonance Imaging* (2023, e-pub ahead of print); doi: [10.1002/jmri.29144](https://doi.org/10.1002/jmri.29144). Author accepted manuscript available [here](https://radiomicsgroup.github.io/misc/Fokkinga2023_doi_GreenOpenAccess.pdf).
+AK Voronova, A Grigoriou, K Bernatowicz, S Simonetti, G Serna, N Roson, M Escobar, M Vieito, P Nuciforo, R Toledo, E Garralda, E Fieremans, DS Novikov, M Palombo, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Enhancing Tumor Microstructural Quantification With Machine Learning and Diffusion-Relaxation MRI. *Medical Image Analysis* 2025 (accepted; in production).
+
+C Macarro, K Bernatowicz, A Garcia-Ruiz, G Serna, C Monreal-Agüero, S Simonetti, M Figini, JF Corral, V Garay, M Vidorreta, P García-Polo García, X Merino, R Mast, N Roson, M Vieito, M Escobar, DC Alexander, R Toledo, P Nuciforo, E Garralda, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Enhancing Tumor Microstructural Quantification With Machine Learning and Diffusion-Relaxation MRI. *Journal of Magnetic Resonance Imaging* 2025, 61(2): 1018-1021; doi: [10.1002/jmri.29484](https://doi.org/10.1002/jmri.29484).
+
+E Fokkinga, J A Hernandez-Tamames, A Ianus, M Nilsson, C M W Tax, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Advanced Diffusion-Weighted MRI for Cancer Microstructure Assessment in Body Imaging, and Its Relationship With Histology. *Journal of Magnetic Resonance Imaging* 2024, 60(4): 1278-1304; doi: [10.1002/jmri.29144](https://doi.org/10.1002/jmri.29144). Author accepted manuscript available [here](https://radiomicsgroup.github.io/misc/Fokkinga2023_doi_GreenOpenAccess.pdf).
 
 **F Grussu**, K Bernatowicz, I Casanova-Salas, N Castro, P Nuciforo, J Mateo, I Barba, R Perez-Lopez. Diffusion MRI signal cumulants and hepatocyte microstructure at fixed diffusion time: Insights from simulations, 9.4T imaging, and histology. *Magnetic Resonance in Medicine* 2022, 88(1): 365-379; doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174).
-
-J Cohen-Adad, ..., **F Grussu**, et al. Generic acquisition protocol for quantitative MRI of the spinal cord. *Nature Protocols* 2021, 16:4611–4632; doi: [10.1038/s41596-021-00588-0](https://doi.org/10.1038/s41596-021-00588-0).
-
-**F Grussu**, M Battiston, J Veraart, T Schneider, J Cohen-Adad, TM Shepherd, DC Alexander, E Fieremans, DS Novikov, CAM Gandini Wheeler-Kingshott. Multi-parametric quantitative in vivo spinal cord MRI with unified signal readout and image denoising. *NeuroImage* 2020, 217:116884; doi: [10.1016/j.neuroimage.2020.116884](https://doi.org/10.1016/j.neuroimage.2020.116884).
 
 
 ### Recent grants and awards
