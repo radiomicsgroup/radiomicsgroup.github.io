@@ -40,10 +40,13 @@ He contributes to the release of repositories for image analysis of research dat
 
 
 ### Latest articles
-E Fokkinga, J A Hernandez-Tamames, A Ianus, M Nilsson, C M W Tax, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Advanced Diffusion-Weighted MRI for Cancer Microstructure Assessment in Body Imaging, and Its Relationship With Histology. *Journal of Magnetic Resonance Imaging* (2023, e-pub ahead of print); doi: [10.1002/jmri.29144](https://doi.org/10.1002/jmri.29144). Author accepted manuscript available [here](https://radiomicsgroup.github.io/misc/Fokkinga2023_doi_GreenOpenAccess.pdf).
+AK Voronova, A Grigoriou, K Bernatowicz, S Simonetti, G Serna, N Roson, M Escobar, M Vieito, P Nuciforo, R Toledo, E Garralda, E Fieremans, DS Novikov, M Palombo, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Enhancing Tumor Microstructural Quantification With Machine Learning and Diffusion-Relaxation MRI. *Medical Image Analysis* 2025 (accepted; in production).
+
+C Macarro, K Bernatowicz, A Garcia-Ruiz, G Serna, C Monreal-Agüero, S Simonetti, M Figini, JF Corral, V Garay, M Vidorreta, P García-Polo García, X Merino, R Mast, N Roson, M Vieito, M Escobar, DC Alexander, R Toledo, P Nuciforo, E Garralda, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Enhancing Tumor Microstructural Quantification With Machine Learning and Diffusion-Relaxation MRI. *Journal of Magnetic Resonance Imaging* 2025, 61(2): 1018-1021; doi: [10.1002/jmri.29484](https://doi.org/10.1002/jmri.29484).
+
+E Fokkinga, J A Hernandez-Tamames, A Ianus, M Nilsson, C M W Tax, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Advanced Diffusion-Weighted MRI for Cancer Microstructure Assessment in Body Imaging, and Its Relationship With Histology. *Journal of Magnetic Resonance Imaging* 2024, 60(4): 1278-1304; doi: [10.1002/jmri.29144](https://doi.org/10.1002/jmri.29144). Author accepted manuscript available [here](https://radiomicsgroup.github.io/misc/Fokkinga2023_doi_GreenOpenAccess.pdf).
 
 **F Grussu**, K Bernatowicz, I Casanova-Salas, N Castro, P Nuciforo, J Mateo, I Barba, R Perez-Lopez. Diffusion MRI signal cumulants and hepatocyte microstructure at fixed diffusion time: Insights from simulations, 9.4T imaging, and histology. *Magnetic Resonance in Medicine* 2022, 88(1): 365-379; doi: [10.1002/mrm.29174](https://doi.org/10.1002/mrm.29174).
-
 
 
 ### Recent grants and awards
