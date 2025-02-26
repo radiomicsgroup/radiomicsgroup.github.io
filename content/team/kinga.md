@@ -23,7 +23,7 @@ Her academic journey started at [Gdańsk University of Technology](https://pg.ed
 - Google Scholar [![profile](/social/google-scholar.svg)](https://scholar.google.com/citations?user=HEZMC90AAAAJ&hl=en)
 - ORCID [![profile](/social/orcid.svg)](https://orcid.org/0000-0001-9166-1709)
 - Github [![profile](/social/github.svg)](https://github.com/kingaber) 
-- Twitter [![profile](/social/twitter.svg)](https://twitter.com/KingaBarcelona)
+- X [![profile](/social/x.svg)](https://twitter.com/KingaBarcelona)
 - Email [![profile](/social/mail.svg)](mailto:kbernatowicz@vhio.net)
 
 ### Latest articles

@@ -20,4 +20,4 @@ Maria obtained a BSc in Biomedical Engineering from Universitat de Barcelona (20
 ### Contact and links
 - Email [![profile](/social/mail.svg)](mailto:mbalaguer@vhio.net) 
 - LinkedIn [![profile](/social/linkedin.svg)](http://linkedin.com/in/mariabalaguerm)
-- Twitter [![profile](/social/twitter.svg)](https://twitter.com/mariabalaguerm)
+- X [![profile](/social/x.svg)](https://twitter.com/mariabalaguerm)

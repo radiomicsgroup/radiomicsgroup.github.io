@@ -23,7 +23,7 @@ Francesco is a biomedical engineer specialised in computational MRI, with almost
 - Google Scholar [![profile](/social/google-scholar.svg)](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao)
 - PhD thesis [![profile](/social/thesis-64.png)](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)
 - LinkedIn [![profile](/social/linkedin.svg)](http://linkedin.com/in/francesco-grussu-9a289775)
-- X (former twitter) [![profile](/social/twitter.svg)](https://twitter.com/fragrussu)
+- X (former twitter) [![profile](/social/x.svg)](https://twitter.com/fragrussu)
 - ORCID [![profile](/social/orcid.svg)](https://orcid.org/0000-0002-0945-3909) 
 - Email [![profile](/social/mail.svg)](mailto:fgrussu@vhio.net)  
 - CV [![profile](/social/cv-64.png)](http://fragrussu.github.io/cvfg.pdf)

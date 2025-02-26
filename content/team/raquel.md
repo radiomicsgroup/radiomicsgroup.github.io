@@ -21,7 +21,7 @@ Raquel joined VHIO in late 2017 as Principal Investigator of [VHIO](https://www.
 ### Contact and links
 - Google Scholar [![profile](/social/google-scholar.svg)](https://scholar.google.com/citations?user=3HqrDrAAAAAJ&hl=en&oi=sra)
 - LinkedIn [![profile](/social/linkedin.svg)](http://linkedin.com/in/raquel-perez-lopez-990a33a0)
-- Twitter [![profile](/social/twitter.svg)](https://twitter.com/raqperezlopez)
+- X [![profile](/social/x.svg)](https://twitter.com/raqperezlopez)
 - ORCID [![profile](/social/orcid.svg)](https://orcid.org/0000-0002-9176-0130) 
 - Email [![profile](/social/mail.svg)](mailto:rperez@vhio.net)
 

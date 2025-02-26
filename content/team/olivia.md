@@ -21,7 +21,7 @@ Olivia obtained a BS. in Biomedical Engineering from Universitat de Barcelona (2
 ### Contact and links
 - Email [![profile](/social/mail.svg)](mailto:oliviaprior@vhio.net)
 - Web page on GitHub [![profile](/social/github.svg)](https://oliviapriorpalomares.github.io)
-- Twitter [![profile](/social/twitter.svg)](https://twitter.com/theanega)
+- X [![profile](/social/x.svg)](https://twitter.com/theanega)
 - LinkedIn [![profile](/social/linkedin.svg)](http://linkedin.com/in/oliviaprior)
 
 

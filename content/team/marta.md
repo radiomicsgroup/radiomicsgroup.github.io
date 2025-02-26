@@ -29,7 +29,7 @@ Now, she is working on improving CT-based radiomics signatures by implementing d
 - Google Scholar [![profile](/social/google-scholar.svg)]()
 - ORCID [![profile](/social/orcid.svg)](https://orcid.org/0000-0001-9824-7316)
 - Github [![profile](/social/github.svg)](https://github.com/mligerhe) 
-- Twitter [![profile](/social/twitter.svg)](https://twitter.com/mligerohe)
+- X [![profile](/social/x.svg)](https://twitter.com/mligerohe)
 - Email [![profile](/social/mail.svg)](mailto:mligero@vhio.net)
 
 ### Open-source research software

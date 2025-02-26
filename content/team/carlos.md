@@ -23,7 +23,7 @@ Moreover, Carlos is interested in multi-omics integration to study novel imaging
 - Google Scholar [![profile](/social/google-scholar.svg)](https://scholar.google.es/citations?user=gpVm8RoAAAAJ&hl=es)
 - ORCID [![profile](/social/orcid.svg)](https://orcid.org/0009-0000-0597-9316)
 - GitHub [![profile](/social/github.svg)](https://www.github.com/carlosmacarro)
-- Twitter [![profile](/social/twitter.svg)](https://x.com/carlosmacarrop)
+- X [![profile](/social/x.svg)](https://x.com/carlosmacarrop)
 - LinkedIn [![profile](/social/linkedin.svg)](https://www.linkedin.com/in/carlos-macarro-perez/)
 - Email [![profile](/social/mail.svg)](mailto:carlosmacarro@vhio.net)
 
