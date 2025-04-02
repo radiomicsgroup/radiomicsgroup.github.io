@@ -11,7 +11,7 @@ heroBackground: 'team/fgrussu_artwork.png'
 alumni: false
 ---
 
-Francesco joined VHIO in 2020. His research aims to develop novel Magnetic Resonance Imaging (MRI) techniques for liver microstructure measurement, potentially useful in oncology. He is also involved in designing MRI acquisition and analysis pipelines in the clinical studies of the Radiomics Group.
+Francesco joined VHIO in 2020. His research aims to develop novel Magnetic Resonance Imaging (MRI) techniques for cancer assessment that are informed by histology. He is also involved in designing MRI acquisition and analysis pipelines in the clinical studies of the Radiomics Group.
                                                      <br/>
 
 ### Scientific trajectory
@@ -40,7 +40,7 @@ He contributes to the release of repositories for image analysis of research dat
 
 
 ### Latest articles
-AK Voronova, A Grigoriou, K Bernatowicz, S Simonetti, G Serna, N Roson, M Escobar, M Vieito, P Nuciforo, R Toledo, E Garralda, E Fieremans, DS Novikov, M Palombo, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Spinflowsim: a blood flow simulation framework for histology-informed diffusion MRI microvasculature mapping in cancer. *Medical Image Analysis* 2025 (accepted; in production).
+AK Voronova, A Grigoriou, K Bernatowicz, S Simonetti, G Serna, N Roson, M Escobar, M Vieito, P Nuciforo, R Toledo, E Garralda, E Fieremans, DS Novikov, M Palombo, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Spinflowsim: a blood flow simulation framework for histology-informed diffusion MRI microvasculature mapping in cancer. *Medical Image Analysis* 2025, 102(103531), doi: [10.1016/j.media.2025.103531](https://doi.org/10.1016/j.media.2025.103531).
 
 C Macarro, K Bernatowicz, A Garcia-Ruiz, G Serna, C Monreal-Agüero, S Simonetti, M Figini, JF Corral, V Garay, M Vidorreta, P García-Polo García, X Merino, R Mast, N Roson, M Vieito, M Escobar, DC Alexander, R Toledo, P Nuciforo, E Garralda, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Enhancing Tumor Microstructural Quantification With Machine Learning and Diffusion-Relaxation MRI. *Journal of Magnetic Resonance Imaging* 2025, 61(2): 1018-1021; doi: [10.1002/jmri.29484](https://doi.org/10.1002/jmri.29484).
 
