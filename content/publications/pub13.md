@@ -3,7 +3,7 @@ title: 'Enhancing Tumor Microstructural Quantification With Machine Learning and
 date: 2025-02-01 15:15:26 +1000
 icon: 'publications/pub13.png'
 featured: true
-weight: 1
+weight: 4
 year: 2025
 draft: false
 paperurl: 'https://doi.org/10.1002/jmri.29484'
