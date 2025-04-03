@@ -3,7 +3,7 @@ title: 'SpinFlowSim: A blood flow simulation framework for histology-informed di
 date: 2025-04-01 15:15:26 +1000
 icon: 'publications/pub21spinflowsim.png'
 featured: true
-weight: 1
+weight: 2
 year: 2025
 draft: false
 paperurl: 'https://doi.org/10.1016/j.media.2025.103531'

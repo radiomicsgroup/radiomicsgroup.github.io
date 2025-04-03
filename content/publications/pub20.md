@@ -3,7 +3,7 @@ title: 'A Deep Learning-Driven Tool for Automatic Liver Tumor Detection and Deli
 date: 2024-03-15T15:15:26+10:00
 icon: 'publications/pub20.png'
 featured: true
-weight: 2
+weight: 3
 year: 2025
 draft: false
 paperurl: 'https://doi.org/10.1016/j.xcrm.2025.102032'

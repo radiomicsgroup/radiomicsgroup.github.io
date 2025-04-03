@@ -3,7 +3,7 @@ title: 'Radiomics signature for dynamic monitoring of tumor inflamed microenviro
 date: 2024-03-15T15:15:26+10:00
 icon: 'publications/pub19.jpg'
 featured: true
-weight: 3
+weight: 4
 year: 2025
 draft: false
 paperurl: 'https://doi.org/10.1136/jitc-2024-009140'
