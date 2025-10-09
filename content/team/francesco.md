@@ -23,7 +23,7 @@ Francesco is a biomedical engineer specialised in computational MRI, with almost
 - Google Scholar [![profile](/social/google-scholar.svg)](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao)
 - PhD thesis [![profile](/social/thesis-64.png)](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)
 - LinkedIn [![profile](/social/linkedin.svg)](http://linkedin.com/in/francesco-grussu-9a289775)
-- BlueSky [![profile](/social/bluesky.svg)](https://bsky.app/profile/fragrussu.bsky.social)
+- BlueSky [![profile](/social/32pixbluesky.png)](https://bsky.app/profile/fragrussu.bsky.social)
 - ORCID [![profile](/social/orcid.svg)](https://orcid.org/0000-0002-0945-3909) 
 - Email [![profile](/social/mail.svg)](mailto:fgrussu@vhio.net)  
 - CV [![profile](/social/cv-64.png)](http://fragrussu.github.io/cvfg.pdf)
@@ -57,5 +57,6 @@ E Fokkinga, J A Hernandez-Tamames, A Ianus, M Nilsson, C M W Tax, R Perez-Lopez^
 **"la Caixa" Foundation**, [2022 Junior Leader Retaining fellowship](https://fundacionlacaixa.org/es/becas-posdoctorado-junior-leader-retaining): "New-generation oncological MRI (New-OncoMRI): development, validation and application". Role: principal investigator (fellow). Duration: 09/2022-09/2025.
 
 **Agència de Gestió d’Ajuts Universitaris i de Recerca**, [2020 Beatriu de Pinós post-doctoral fellowship](https://agaur.gencat.cat/en/Beatriu-de-Pinos/el-programa/index.html): "Advancing Magnetic Resonance Imaging against liver cancer". Role: principal investigator (fellow). Duration: 01/2022-12/2024. Renounced on 29/09/2021 due to incompatibility with a "la Caixa" Junior Leader Fellowship.
+
 
 
