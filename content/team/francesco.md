@@ -23,7 +23,7 @@ Francesco is a biomedical engineer specialised in computational MRI, with almost
 - Google Scholar [![profile](/social/google-scholar.svg)](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao)
 - PhD thesis [![profile](/social/thesis-64.png)](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)
 - LinkedIn [![profile](/social/linkedin.svg)](http://linkedin.com/in/francesco-grussu-9a289775)
-- X (former twitter) [![profile](/social/x.svg)](https://twitter.com/fragrussu)
+- BlueSky [![profile](/social/bluesky.svg)](https://bsky.app/profile/fragrussu.bsky.social)
 - ORCID [![profile](/social/orcid.svg)](https://orcid.org/0000-0002-0945-3909) 
 - Email [![profile](/social/mail.svg)](mailto:fgrussu@vhio.net)  
 - CV [![profile](/social/cv-64.png)](http://fragrussu.github.io/cvfg.pdf)
@@ -40,7 +40,7 @@ He contributes to the release of repositories for image analysis of research dat
 
 
 ### Latest articles
-AK Voronova, A Grigoriou, K Bernatowicz, S Simonetti, G Serna, N Roson, M Escobar, M Vieito, P Nuciforo, R Toledo, E Garralda, E Fieremans, DS Novikov, M Palombo, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Spinflowsim: a blood flow simulation framework for histology-informed diffusion MRI microvasculature mapping in cancer. *Medical Image Analysis* 2025, 102(103531), doi: [10.1016/j.media.2025.103531](https://doi.org/10.1016/j.media.2025.103531).
+AK Voronova, A Grigoriou, K Bernatowicz, S Simonetti, G Serna, N Roson, M Escobar, M Vieito, P Nuciforo, R Toledo, E Garralda, E Fieremans, DS Novikov, M Palombo, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Spinflowsim: a blood flow simulation framework for histology-informed diffusion MRI microvasculature mapping in cancer. *Medical Image Analysis* 2025, 102: 103531; doi: [10.1016/j.media.2025.103531](https://doi.org/10.1016/j.media.2025.103531).
 
 C Macarro, K Bernatowicz, A Garcia-Ruiz, G Serna, C Monreal-Agüero, S Simonetti, M Figini, JF Corral, V Garay, M Vidorreta, P García-Polo García, X Merino, R Mast, N Roson, M Vieito, M Escobar, DC Alexander, R Toledo, P Nuciforo, E Garralda, R Perez-Lopez^, **F Grussu**^ (^ joint corresponding authors and joint senior authors). Enhancing Tumor Microstructural Quantification With Machine Learning and Diffusion-Relaxation MRI. *Journal of Magnetic Resonance Imaging* 2025, 61(2): 1018-1021; doi: [10.1002/jmri.29484](https://doi.org/10.1002/jmri.29484).
 
@@ -50,12 +50,12 @@ E Fokkinga, J A Hernandez-Tamames, A Ianus, M Nilsson, C M W Tax, R Perez-Lopez^
 
 
 ### Recent grants and awards
+**"Agencia Estatal de Investigación** (AEI, State Research Agency), [Proyectos de Generación de Conocimiento 2024](https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-generacion-conocimiento-2024) (Knowledge Generation Projects): "Magnetic Resonance Imaging (MRI) foundational artificial intelligence for non-invasive, histologically-meaningful cancer characterisation (MRI-Found-Histo)". Role: principal investigator. Duration: 12/2025-12/2028 (provisional acceptance; final list of awardees expected in autumn 2025).
+
 **Best oral presentation award**, 2023 annual meeting of the Iberian Chapter of the [International Society for Magentic Resonance in Medicine](https://www.ismrm.org) (ISMRM), Valladolid, Spain, 3-5 July 2023.
 
 **"la Caixa" Foundation**, [2022 Junior Leader Retaining fellowship](https://fundacionlacaixa.org/es/becas-posdoctorado-junior-leader-retaining): "New-generation oncological MRI (New-OncoMRI): development, validation and application". Role: principal investigator (fellow). Duration: 09/2022-09/2025.
 
 **Agència de Gestió d’Ajuts Universitaris i de Recerca**, [2020 Beatriu de Pinós post-doctoral fellowship](https://agaur.gencat.cat/en/Beatriu-de-Pinos/el-programa/index.html): "Advancing Magnetic Resonance Imaging against liver cancer". Role: principal investigator (fellow). Duration: 01/2022-12/2024. Renounced on 29/09/2021 due to incompatibility with a "la Caixa" Junior Leader Fellowship.
 
-**3rd prize**, 2021 [International Society for Magentic Resonance in Medicine](https://www.ismrm.org) (ISMRM) [MR of Cancer Study Group](https://groups.ismrm.org/mr-of-cancer), Trainee competition for abstract [Grussu et al, Proc ISMRM 2021, p.0699](https://www.ismrm.org/21/program-files/O-65.htm).
 
-**1st prize**, “Multi-dimensional Diffusion Imaging” ([MUDI](http://cmic.cs.ucl.ac.uk/cdmri19/challenge.html)) challenge at 2019 [MICCAI CDMRI Workshop](http://cmic.cs.ucl.ac.uk/cdmri19) (Shenzhen, China, 17/10/2019). Team: Grussu F, Blumberg SB, Ianus A, Mertzanidou T, Alexander DC. Method: SARDU-Net.
