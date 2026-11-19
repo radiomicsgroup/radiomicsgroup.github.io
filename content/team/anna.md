@@ -8,7 +8,7 @@ weight: 11
 heroHeading: 'Anna Voronova'
 heroSubHeading: 'Predoctoral Researcher'
 heroBackground: 'team/team2.jpg'
-alumni: false
+alumni: true
 ---
 
 Anna Voronova is a biomedical engineer that joined the Radiomics group  at VHIO in 2022. Anna's research centers on Artificial Intelligence and computational dMRI methods for application in earlier metastasis detection and tumour microenvironment characterisation for treatment evaluation.
