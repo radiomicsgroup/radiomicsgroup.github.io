@@ -8,7 +8,7 @@ weight: 16
 heroHeading: 'Nikolaos Staikoglou'
 heroSubHeading: 'Radiologist Fellow'
 heroBackground: 'team/team2.jpg'
-alumni: false
+alumni: true
 ---
 
 Nikolaos (Nikos) is a Medical Doctor with training in Radiology. His 
